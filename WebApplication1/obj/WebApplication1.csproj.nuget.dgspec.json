@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\gzhe2\\Downloads\\WebApplication1\\WebApplication1\\WebApplication1.csproj": {}
+    "C:\\Users\\gzhe2\\Downloads\\WebApplication1\\AS-assignment\\WebApplication1\\WebApplication1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\gzhe2\\Downloads\\WebApplication1\\WebApplication1\\WebApplication1.csproj": {
+    "C:\\Users\\gzhe2\\Downloads\\WebApplication1\\AS-assignment\\WebApplication1\\WebApplication1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\gzhe2\\Downloads\\WebApplication1\\WebApplication1\\WebApplication1.csproj",
+        "projectUniqueName": "C:\\Users\\gzhe2\\Downloads\\WebApplication1\\AS-assignment\\WebApplication1\\WebApplication1.csproj",
         "projectName": "WebApplication1",
-        "projectPath": "C:\\Users\\gzhe2\\Downloads\\WebApplication1\\WebApplication1\\WebApplication1.csproj",
+        "projectPath": "C:\\Users\\gzhe2\\Downloads\\WebApplication1\\AS-assignment\\WebApplication1\\WebApplication1.csproj",
         "packagesPath": "C:\\Users\\gzhe2\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\gzhe2\\Downloads\\WebApplication1\\WebApplication1\\obj\\",
+        "outputPath": "C:\\Users\\gzhe2\\Downloads\\WebApplication1\\AS-assignment\\WebApplication1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\gzhe2\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -67,6 +67,10 @@
             "Newtonsoft.Json": {
               "target": "Package",
               "version": "[13.0.3, )"
+            },
+            "SendGrid": {
+              "target": "Package",
+              "version": "[9.29.3, )"
             }
           },
           "imports": [

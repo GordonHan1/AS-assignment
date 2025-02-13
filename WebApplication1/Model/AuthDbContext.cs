@@ -29,10 +29,11 @@ namespace WebApplication1.Model
         }
 
         // 3. Optionally override OnModelCreating to configure additional aspects
+
         protected override void OnModelCreating(ModelBuilder builder)
         {
             base.OnModelCreating(builder);
-            // e.g. Configure custom constraints/indexes here, if needed
         }
-    }
+ 
+}
 }
