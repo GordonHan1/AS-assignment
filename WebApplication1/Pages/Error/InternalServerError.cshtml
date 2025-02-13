@@ -1,0 +1,24 @@
+﻿@page
+@model Error500Model
+@{
+    Layout = null; // or you can use your main layout
+    ViewData["Title"] = "Server Error";
+}
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>Internal Server Error</title>
+    <link rel="stylesheet" href="~/css/site.css" />
+</head>
+<body>
+    <div class="container mt-5">
+        <h1>Oops! Something went wrong (500).</h1>
+        <p>
+            Our server encountered an unexpected error.<br />
+            Please try again later or contact support.
+        </p>
+    </div>
+</body>
+</html>

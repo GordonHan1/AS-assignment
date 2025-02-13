@@ -1,0 +1,77 @@
+﻿@page
+@model WebApplication1.Pages.LandingPageModel
+@{
+    ViewData["Title"] = "My Profile";
+}
+
+<h1>Welcome, @Model.CurrentUser.FirstName @Model.CurrentUser.LastName!</h1>
+
+<div class="row">
+    <div class="col-md-4">
+        <!-- Display Profile Photo -->
+        <img src="@Model.CurrentUser.PhotoPath" alt="Profile Photo" class="img-thumbnail" style="max-width:200px;" />
+    </div>
+    <div class="col-md-8">
+        <dl class="row">
+            <dt class="col-sm-4">Email:</dt>
+            <dd class="col-sm-8">@Model.CurrentUser.Email</dd>
+
+            <dt class="col-sm-4">Mobile No:</dt>
+            <dd class="col-sm-8">@Model.DecryptedMobileNo</dd>
+
+            <dt class="col-sm-4">Billing Address:</dt>
+            <dd class="col-sm-8">@Model.DecryptedBillingAddress</dd>
+
+            <dt class="col-sm-4">Shipping Address:</dt>
+            <dd class="col-sm-8">@Model.CurrentUser.ShippingAddress</dd>
+
+            <dt class="col-sm-4">Credit Card No:</dt>
+            <dd class="col-sm-8">@Model.DecryptedCreditCard</dd>
+        </dl>
+    </div>
+</div>
+
+<hr />
+
+<form method="get" asp-page="/ChangePassword">
+    <button type="submit" class="btn btn-warning">Change Password</button>
+</form>
+
+<!-- Update User Form -->
+<h2>Update Your Details</h2>
+<form method="post" asp-page-handler="UpdateUser">
+    <div asp-validation-summary="All" class="text-danger"></div>
+
+    <div class="mb-3">
+        <label asp-for="UpdateModel.MobileNo" class="form-label"></label>
+        <input asp-for="UpdateModel.MobileNo" class="form-control" />
+        <span asp-validation-for="UpdateModel.MobileNo" class="text-danger"></span>
+    </div>
+
+    <div class="mb-3">
+        <label asp-for="UpdateModel.BillingAddress" class="form-label"></label>
+        <input asp-for="UpdateModel.BillingAddress" class="form-control" />
+        <span asp-validation-for="UpdateModel.BillingAddress" class="text-danger"></span>
+    </div>
+
+    <div class="mb-3">
+        <label asp-for="UpdateModel.ShippingAddress" class="form-label"></label>
+        <input asp-for="UpdateModel.ShippingAddress" class="form-control" />
+        <span asp-validation-for="UpdateModel.ShippingAddress" class="text-danger"></span>
+    </div>
+
+    <div class="mb-3">
+        <label asp-for="UpdateModel.CreditCardNo" class="form-label"></label>
+        <input asp-for="UpdateModel.CreditCardNo" class="form-control" />
+        <span asp-validation-for="UpdateModel.CreditCardNo" class="text-danger"></span>
+    </div>
+
+    <button type="submit" class="btn btn-primary">Update</button>
+
+</form>
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}
