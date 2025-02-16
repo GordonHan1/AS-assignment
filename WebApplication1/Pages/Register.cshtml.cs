@@ -8,6 +8,7 @@ using WebApplication1.Model; // <-- For AuthDbContext
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
 using WebApplication1.Services;
+using Microsoft.AspNetCore.Mvc.ModelBinding;
 
 namespace WebApplication1.Pages
 {
@@ -24,8 +25,10 @@ namespace WebApplication1.Pages
         [BindProperty]
         public Register RModel { get; set; }
 
-        // Expose the Site Key to the view
+        [BindNever]
         public string RecaptchaSiteKey { get; set; }
+
+        // Expose the Site Key to the view
 
         // Add AuthDbContext to the constructor's parameters
         public RegisterModel(
@@ -42,10 +45,15 @@ namespace WebApplication1.Pages
             _dbContext = dbContext;
             _configuration = configuration;
             _captchaService = captchaService;// 3) Store it for later
+
         }
 
         public void OnGet()
         {
+            RModel = new Register
+            {
+                RecaptchaSiteKey = _configuration["GoogleReCaptcha:SiteKey"]
+            };
             RecaptchaSiteKey = _configuration["GoogleReCaptcha:SiteKey"];
         }
 
@@ -119,7 +127,10 @@ namespace WebApplication1.Pages
                 BillingAddressIV = billingIV,
 
                 ShippingAddress = RModel.ShippingAddress,
-                PhotoPath = $"/images/users/{fileName}"
+                PhotoPath = $"/images/users/{fileName}",
+                PasswordLastChanged = DateTime.UtcNow // Set the initial password change date here
+
+
             };
 
             // Create the user with Identity

@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\gzhe2\\Downloads\\WebApplication1\\AS-assignment\\WebApplication1\\WebApplication1.csproj": {}
+    "C:\\Nyp\\Y2S2\\EDP\\Threads\\AS-assignment\\WebApplication1\\WebApplication1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\gzhe2\\Downloads\\WebApplication1\\AS-assignment\\WebApplication1\\WebApplication1.csproj": {
+    "C:\\Nyp\\Y2S2\\EDP\\Threads\\AS-assignment\\WebApplication1\\WebApplication1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\gzhe2\\Downloads\\WebApplication1\\AS-assignment\\WebApplication1\\WebApplication1.csproj",
+        "projectUniqueName": "C:\\Nyp\\Y2S2\\EDP\\Threads\\AS-assignment\\WebApplication1\\WebApplication1.csproj",
         "projectName": "WebApplication1",
-        "projectPath": "C:\\Users\\gzhe2\\Downloads\\WebApplication1\\AS-assignment\\WebApplication1\\WebApplication1.csproj",
-        "packagesPath": "C:\\Users\\gzhe2\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\gzhe2\\Downloads\\WebApplication1\\AS-assignment\\WebApplication1\\obj\\",
+        "projectPath": "C:\\Nyp\\Y2S2\\EDP\\Threads\\AS-assignment\\WebApplication1\\WebApplication1.csproj",
+        "packagesPath": "C:\\Users\\gzhe3\\.nuget\\packages\\",
+        "outputPath": "C:\\Nyp\\Y2S2\\EDP\\Threads\\AS-assignment\\WebApplication1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\gzhe2\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\gzhe3\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

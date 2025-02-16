@@ -30,6 +30,8 @@ namespace WebApplication1.Models
 
         // Photo path
         public string PhotoPath { get; set; }
+
+        public DateTime PasswordLastChanged { get; set; }
     }
 
 }

@@ -1,4 +1,5 @@
-﻿using System.ComponentModel.DataAnnotations;
+﻿using Microsoft.AspNetCore.Mvc.ModelBinding;
+using System.ComponentModel.DataAnnotations;
 
 namespace WebApplication1.ViewModels
 {
@@ -34,7 +35,10 @@ namespace WebApplication1.ViewModels
         [Required]
         [Display(Name = "Shipping Address")]
         public string ShippingAddress { get; set; }
-        public string RecaptchaSiteKey { get; set; }
+
+        [BindNever]
+        public string? RecaptchaSiteKey { get; set; }
+
         [Required]
         [DataType(DataType.EmailAddress)]
         [Display(Name = "Email Address")]

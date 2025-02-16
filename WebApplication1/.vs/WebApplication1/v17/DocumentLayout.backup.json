@@ -1,183 +1,227 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\gzhe2\\Downloads\\WebApplication1\\AS-assignment\\WebApplication1\\",
+  "WorkspaceRootPath": "C:\\Nyp\\Y2S2\\EDP\\Threads\\AS-assignment\\WebApplication1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1A62342C-4840-4111-909C-F8936F31C702}|WebApplication1.csproj|c:\\users\\gzhe2\\downloads\\webapplication1\\as-assignment\\webapplication1\\pages\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{1A62342C-4840-4111-909C-F8936F31C702}|WebApplication1.csproj|solutionrelative:pages\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{1A62342C-4840-4111-909C-F8936F31C702}|WebApplication1.csproj|c:\\nyp\\y2s2\\edp\\threads\\as-assignment\\webapplication1\\pages\\error\\invalidtoken.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1A62342C-4840-4111-909C-F8936F31C702}|WebApplication1.csproj|solutionrelative:pages\\error\\invalidtoken.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1A62342C-4840-4111-909C-F8936F31C702}|WebApplication1.csproj|c:\\users\\gzhe2\\downloads\\webapplication1\\as-assignment\\webapplication1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Nyp\\Y2S2\\EDP\\Threads\\AS-assignment\\WebApplication1\\Migrations\\20250213051331_password.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20250213051331_password.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A62342C-4840-4111-909C-F8936F31C702}|WebApplication1.csproj|c:\\nyp\\y2s2\\edp\\threads\\as-assignment\\webapplication1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1A62342C-4840-4111-909C-F8936F31C702}|WebApplication1.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1A62342C-4840-4111-909C-F8936F31C702}|WebApplication1.csproj|c:\\users\\gzhe2\\downloads\\webapplication1\\as-assignment\\webapplication1\\validators\\passwordhistoryvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1A62342C-4840-4111-909C-F8936F31C702}|WebApplication1.csproj|solutionrelative:validators\\passwordhistoryvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1A62342C-4840-4111-909C-F8936F31C702}|WebApplication1.csproj|c:\\users\\gzhe2\\downloads\\webapplication1\\as-assignment\\webapplication1\\model\\authdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1A62342C-4840-4111-909C-F8936F31C702}|WebApplication1.csproj|solutionrelative:model\\authdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1A62342C-4840-4111-909C-F8936F31C702}|WebApplication1.csproj|c:\\users\\gzhe2\\downloads\\webapplication1\\as-assignment\\webapplication1\\pages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{1A62342C-4840-4111-909C-F8936F31C702}|WebApplication1.csproj|solutionrelative:pages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1A62342C-4840-4111-909C-F8936F31C702}|WebApplication1.csproj|c:\\users\\gzhe2\\downloads\\webapplication1\\as-assignment\\webapplication1\\model\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1A62342C-4840-4111-909C-F8936F31C702}|WebApplication1.csproj|solutionrelative:model\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1A62342C-4840-4111-909C-F8936F31C702}|WebApplication1.csproj|c:\\users\\gzhe2\\downloads\\webapplication1\\as-assignment\\webapplication1\\model\\passwordhistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1A62342C-4840-4111-909C-F8936F31C702}|WebApplication1.csproj|solutionrelative:model\\passwordhistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1A62342C-4840-4111-909C-F8936F31C702}|WebApplication1.csproj|c:\\users\\gzhe2\\downloads\\webapplication1\\as-assignment\\webapplication1\\pages\\changepassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{1A62342C-4840-4111-909C-F8936F31C702}|WebApplication1.csproj|solutionrelative:pages\\changepassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1A62342C-4840-4111-909C-F8936F31C702}|WebApplication1.csproj|c:\\users\\gzhe2\\downloads\\webapplication1\\as-assignment\\webapplication1\\pages\\component.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{1A62342C-4840-4111-909C-F8936F31C702}|WebApplication1.csproj|solutionrelative:pages\\component.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1A62342C-4840-4111-909C-F8936F31C702}|WebApplication1.csproj|c:\\users\\gzhe2\\downloads\\webapplication1\\as-assignment\\webapplication1\\pages\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{1A62342C-4840-4111-909C-F8936F31C702}|WebApplication1.csproj|solutionrelative:pages\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1A62342C-4840-4111-909C-F8936F31C702}|WebApplication1.csproj|c:\\users\\gzhe2\\downloads\\webapplication1\\as-assignment\\webapplication1\\services\\googlecaptchaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1A62342C-4840-4111-909C-F8936F31C702}|WebApplication1.csproj|solutionrelative:services\\googlecaptchaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1A62342C-4840-4111-909C-F8936F31C702}|WebApplication1.csproj|c:\\users\\gzhe2\\downloads\\webapplication1\\as-assignment\\webapplication1\\extensions\\lockoutextentions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1A62342C-4840-4111-909C-F8936F31C702}|WebApplication1.csproj|solutionrelative:extensions\\lockoutextentions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1A62342C-4840-4111-909C-F8936F31C702}|WebApplication1.csproj|c:\\users\\gzhe2\\downloads\\webapplication1\\as-assignment\\webapplication1\\pages\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{1A62342C-4840-4111-909C-F8936F31C702}|WebApplication1.csproj|solutionrelative:pages\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1A62342C-4840-4111-909C-F8936F31C702}|WebApplication1.csproj|c:\\users\\gzhe2\\downloads\\webapplication1\\as-assignment\\webapplication1\\pages\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1A62342C-4840-4111-909C-F8936F31C702}|WebApplication1.csproj|solutionrelative:pages\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1A62342C-4840-4111-909C-F8936F31C702}|WebApplication1.csproj|c:\\users\\gzhe2\\downloads\\webapplication1\\as-assignment\\webapplication1\\viewmodels\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1A62342C-4840-4111-909C-F8936F31C702}|WebApplication1.csproj|solutionrelative:viewmodels\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1A62342C-4840-4111-909C-F8936F31C702}|WebApplication1.csproj|c:\\users\\gzhe2\\downloads\\webapplication1\\as-assignment\\webapplication1\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{1A62342C-4840-4111-909C-F8936F31C702}|WebApplication1.csproj|solutionrelative:appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1A62342C-4840-4111-909C-F8936F31C702}|WebApplication1.csproj|c:\\users\\gzhe2\\downloads\\webapplication1\\as-assignment\\webapplication1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{1A62342C-4840-4111-909C-F8936F31C702}|WebApplication1.csproj|c:\\nyp\\y2s2\\edp\\threads\\as-assignment\\webapplication1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{1A62342C-4840-4111-909C-F8936F31C702}|WebApplication1.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1A62342C-4840-4111-909C-F8936F31C702}|WebApplication1.csproj|c:\\users\\gzhe2\\downloads\\webapplication1\\as-assignment\\webapplication1\\pages\\landingpage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{1A62342C-4840-4111-909C-F8936F31C702}|WebApplication1.csproj|solutionrelative:pages\\landingpage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{1A62342C-4840-4111-909C-F8936F31C702}|WebApplication1.csproj|c:\\nyp\\y2s2\\edp\\threads\\as-assignment\\webapplication1\\pages\\resetpassword.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A62342C-4840-4111-909C-F8936F31C702}|WebApplication1.csproj|solutionrelative:pages\\resetpassword.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1A62342C-4840-4111-909C-F8936F31C702}|WebApplication1.csproj|c:\\users\\gzhe2\\downloads\\webapplication1\\as-assignment\\webapplication1\\pages\\changepassword.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1A62342C-4840-4111-909C-F8936F31C702}|WebApplication1.csproj|solutionrelative:pages\\changepassword.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1A62342C-4840-4111-909C-F8936F31C702}|WebApplication1.csproj|c:\\users\\gzhe2\\downloads\\webapplication1\\as-assignment\\webapplication1\\pages\\landingpage.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1A62342C-4840-4111-909C-F8936F31C702}|WebApplication1.csproj|solutionrelative:pages\\landingpage.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1A62342C-4840-4111-909C-F8936F31C702}|WebApplication1.csproj|c:\\users\\gzhe2\\downloads\\webapplication1\\as-assignment\\webapplication1\\pages\\humanresource.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1A62342C-4840-4111-909C-F8936F31C702}|WebApplication1.csproj|solutionrelative:pages\\humanresource.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1A62342C-4840-4111-909C-F8936F31C702}|WebApplication1.csproj|c:\\users\\gzhe2\\downloads\\webapplication1\\as-assignment\\webapplication1\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{1A62342C-4840-4111-909C-F8936F31C702}|WebApplication1.csproj|solutionrelative:pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1A62342C-4840-4111-909C-F8936F31C702}|WebApplication1.csproj|c:\\users\\gzhe2\\downloads\\webapplication1\\as-assignment\\webapplication1\\viewmodels\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1A62342C-4840-4111-909C-F8936F31C702}|WebApplication1.csproj|solutionrelative:viewmodels\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1A62342C-4840-4111-909C-F8936F31C702}|WebApplication1.csproj|c:\\users\\gzhe2\\downloads\\webapplication1\\as-assignment\\webapplication1\\pages\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{1A62342C-4840-4111-909C-F8936F31C702}|WebApplication1.csproj|solutionrelative:pages\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1A62342C-4840-4111-909C-F8936F31C702}|WebApplication1.csproj|c:\\users\\gzhe2\\downloads\\webapplication1\\as-assignment\\webapplication1\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1A62342C-4840-4111-909C-F8936F31C702}|WebApplication1.csproj|solutionrelative:pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1A62342C-4840-4111-909C-F8936F31C702}|WebApplication1.csproj|c:\\users\\gzhe2\\downloads\\webapplication1\\as-assignment\\webapplication1\\pages\\privacy.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1A62342C-4840-4111-909C-F8936F31C702}|WebApplication1.csproj|solutionrelative:pages\\privacy.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1A62342C-4840-4111-909C-F8936F31C702}|WebApplication1.csproj|c:\\users\\gzhe2\\downloads\\webapplication1\\as-assignment\\webapplication1\\pages\\error.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1A62342C-4840-4111-909C-F8936F31C702}|WebApplication1.csproj|solutionrelative:pages\\error.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1A62342C-4840-4111-909C-F8936F31C702}|WebApplication1.csproj|c:\\users\\gzhe2\\downloads\\webapplication1\\as-assignment\\webapplication1\\pages\\error\\internalservererror.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{1A62342C-4840-4111-909C-F8936F31C702}|WebApplication1.csproj|solutionrelative:pages\\error\\internalservererror.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1A62342C-4840-4111-909C-F8936F31C702}|WebApplication1.csproj|c:\\users\\gzhe2\\downloads\\webapplication1\\as-assignment\\webapplication1\\helpers\\cryptohelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1A62342C-4840-4111-909C-F8936F31C702}|WebApplication1.csproj|c:\\nyp\\y2s2\\edp\\threads\\as-assignment\\webapplication1\\helpers\\cryptohelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1A62342C-4840-4111-909C-F8936F31C702}|WebApplication1.csproj|solutionrelative:helpers\\cryptohelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1A62342C-4840-4111-909C-F8936F31C702}|WebApplication1.csproj|c:\\users\\gzhe2\\downloads\\webapplication1\\as-assignment\\webapplication1\\viewmodels\\landingpageviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1A62342C-4840-4111-909C-F8936F31C702}|WebApplication1.csproj|solutionrelative:viewmodels\\landingpageviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1A62342C-4840-4111-909C-F8936F31C702}|WebApplication1.csproj|c:\\nyp\\y2s2\\edp\\threads\\as-assignment\\webapplication1\\pages\\resetpassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1A62342C-4840-4111-909C-F8936F31C702}|WebApplication1.csproj|solutionrelative:pages\\resetpassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1A62342C-4840-4111-909C-F8936F31C702}|WebApplication1.csproj|c:\\users\\gzhe2\\downloads\\webapplication1\\as-assignment\\webapplication1\\pages\\error\\404.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{1A62342C-4840-4111-909C-F8936F31C702}|WebApplication1.csproj|solutionrelative:pages\\error\\404.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{1A62342C-4840-4111-909C-F8936F31C702}|WebApplication1.csproj|c:\\nyp\\y2s2\\edp\\threads\\as-assignment\\webapplication1\\services\\emailsender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A62342C-4840-4111-909C-F8936F31C702}|WebApplication1.csproj|solutionrelative:services\\emailsender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1A62342C-4840-4111-909C-F8936F31C702}|WebApplication1.csproj|c:\\users\\gzhe2\\downloads\\webapplication1\\as-assignment\\webapplication1\\pages\\error\\403.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{1A62342C-4840-4111-909C-F8936F31C702}|WebApplication1.csproj|solutionrelative:pages\\error\\403.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1A62342C-4840-4111-909C-F8936F31C702}|WebApplication1.csproj|c:\\users\\gzhe2\\downloads\\webapplication1\\as-assignment\\webapplication1\\pages\\error\\internalservererror.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1A62342C-4840-4111-909C-F8936F31C702}|WebApplication1.csproj|solutionrelative:pages\\error\\internalservererror.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1A62342C-4840-4111-909C-F8936F31C702}|WebApplication1.csproj|c:\\users\\gzhe2\\downloads\\webapplication1\\as-assignment\\webapplication1\\pages\\error\\404.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1A62342C-4840-4111-909C-F8936F31C702}|WebApplication1.csproj|solutionrelative:pages\\error\\404.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1A62342C-4840-4111-909C-F8936F31C702}|WebApplication1.csproj|c:\\users\\gzhe2\\downloads\\webapplication1\\as-assignment\\webapplication1\\pages\\error\\403.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1A62342C-4840-4111-909C-F8936F31C702}|WebApplication1.csproj|solutionrelative:pages\\error\\403.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1A62342C-4840-4111-909C-F8936F31C702}|WebApplication1.csproj|c:\\users\\gzhe2\\downloads\\webapplication1\\as-assignment\\webapplication1\\pages\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1A62342C-4840-4111-909C-F8936F31C702}|WebApplication1.csproj|c:\\nyp\\y2s2\\edp\\threads\\as-assignment\\webapplication1\\pages\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1A62342C-4840-4111-909C-F8936F31C702}|WebApplication1.csproj|solutionrelative:pages\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1A62342C-4840-4111-909C-F8936F31C702}|WebApplication1.csproj|c:\\users\\gzhe2\\downloads\\webapplication1\\as-assignment\\webapplication1\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{1A62342C-4840-4111-909C-F8936F31C702}|WebApplication1.csproj|solutionrelative:pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{1A62342C-4840-4111-909C-F8936F31C702}|WebApplication1.csproj|c:\\nyp\\y2s2\\edp\\threads\\as-assignment\\webapplication1\\pages\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1A62342C-4840-4111-909C-F8936F31C702}|WebApplication1.csproj|solutionrelative:pages\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1A62342C-4840-4111-909C-F8936F31C702}|WebApplication1.csproj|c:\\users\\gzhe2\\downloads\\webapplication1\\as-assignment\\webapplication1\\pages\\logout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{1A62342C-4840-4111-909C-F8936F31C702}|WebApplication1.csproj|c:\\nyp\\y2s2\\edp\\threads\\as-assignment\\webapplication1\\pages\\changepassword.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A62342C-4840-4111-909C-F8936F31C702}|WebApplication1.csproj|solutionrelative:pages\\changepassword.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A62342C-4840-4111-909C-F8936F31C702}|WebApplication1.csproj|c:\\nyp\\y2s2\\edp\\threads\\as-assignment\\webapplication1\\pages\\changepassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1A62342C-4840-4111-909C-F8936F31C702}|WebApplication1.csproj|solutionrelative:pages\\changepassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A62342C-4840-4111-909C-F8936F31C702}|WebApplication1.csproj|c:\\nyp\\y2s2\\edp\\threads\\as-assignment\\webapplication1\\pages\\logout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{1A62342C-4840-4111-909C-F8936F31C702}|WebApplication1.csproj|solutionrelative:pages\\logout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1A62342C-4840-4111-909C-F8936F31C702}|WebApplication1.csproj|c:\\users\\gzhe2\\downloads\\webapplication1\\as-assignment\\webapplication1\\pages\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{1A62342C-4840-4111-909C-F8936F31C702}|WebApplication1.csproj|c:\\nyp\\y2s2\\edp\\threads\\as-assignment\\webapplication1\\pages\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A62342C-4840-4111-909C-F8936F31C702}|WebApplication1.csproj|solutionrelative:pages\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A62342C-4840-4111-909C-F8936F31C702}|WebApplication1.csproj|c:\\nyp\\y2s2\\edp\\threads\\as-assignment\\webapplication1\\pages\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1A62342C-4840-4111-909C-F8936F31C702}|WebApplication1.csproj|solutionrelative:pages\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A62342C-4840-4111-909C-F8936F31C702}|WebApplication1.csproj|c:\\nyp\\y2s2\\edp\\threads\\as-assignment\\webapplication1\\viewmodels\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A62342C-4840-4111-909C-F8936F31C702}|WebApplication1.csproj|solutionrelative:viewmodels\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A62342C-4840-4111-909C-F8936F31C702}|WebApplication1.csproj|c:\\nyp\\y2s2\\edp\\threads\\as-assignment\\webapplication1\\model\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A62342C-4840-4111-909C-F8936F31C702}|WebApplication1.csproj|solutionrelative:model\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A62342C-4840-4111-909C-F8936F31C702}|WebApplication1.csproj|c:\\nyp\\y2s2\\edp\\threads\\as-assignment\\webapplication1\\validators\\passwordhistoryvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A62342C-4840-4111-909C-F8936F31C702}|WebApplication1.csproj|solutionrelative:validators\\passwordhistoryvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Nyp\\Y2S2\\EDP\\Threads\\AS-assignment\\WebApplication1\\Migrations\\20250213044408_hi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20250213044408_hi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A62342C-4840-4111-909C-F8936F31C702}|WebApplication1.csproj|c:\\nyp\\y2s2\\edp\\threads\\as-assignment\\webapplication1\\services\\smssender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A62342C-4840-4111-909C-F8936F31C702}|WebApplication1.csproj|solutionrelative:services\\smssender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A62342C-4840-4111-909C-F8936F31C702}|WebApplication1.csproj|c:\\nyp\\y2s2\\edp\\threads\\as-assignment\\webapplication1\\pages\\forgotpasswordconfirmation.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A62342C-4840-4111-909C-F8936F31C702}|WebApplication1.csproj|solutionrelative:pages\\forgotpasswordconfirmation.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A62342C-4840-4111-909C-F8936F31C702}|WebApplication1.csproj|c:\\nyp\\y2s2\\edp\\threads\\as-assignment\\webapplication1\\pages\\forgotpasswordconfirmation.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1A62342C-4840-4111-909C-F8936F31C702}|WebApplication1.csproj|solutionrelative:pages\\forgotpasswordconfirmation.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A62342C-4840-4111-909C-F8936F31C702}|WebApplication1.csproj|c:\\nyp\\y2s2\\edp\\threads\\as-assignment\\webapplication1\\pages\\forgotpassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1A62342C-4840-4111-909C-F8936F31C702}|WebApplication1.csproj|solutionrelative:pages\\forgotpassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A62342C-4840-4111-909C-F8936F31C702}|WebApplication1.csproj|c:\\nyp\\y2s2\\edp\\threads\\as-assignment\\webapplication1\\pages\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1A62342C-4840-4111-909C-F8936F31C702}|WebApplication1.csproj|solutionrelative:pages\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A62342C-4840-4111-909C-F8936F31C702}|WebApplication1.csproj|c:\\nyp\\y2s2\\edp\\threads\\as-assignment\\webapplication1\\pages\\forgotpassword.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A62342C-4840-4111-909C-F8936F31C702}|WebApplication1.csproj|solutionrelative:pages\\forgotpassword.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A62342C-4840-4111-909C-F8936F31C702}|WebApplication1.csproj|c:\\nyp\\y2s2\\edp\\threads\\as-assignment\\webapplication1\\pages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1A62342C-4840-4111-909C-F8936F31C702}|WebApplication1.csproj|solutionrelative:pages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A62342C-4840-4111-909C-F8936F31C702}|WebApplication1.csproj|c:\\nyp\\y2s2\\edp\\threads\\as-assignment\\webapplication1\\viewmodels\\forgotpasswordviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A62342C-4840-4111-909C-F8936F31C702}|WebApplication1.csproj|solutionrelative:viewmodels\\forgotpasswordviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A62342C-4840-4111-909C-F8936F31C702}|WebApplication1.csproj|c:\\nyp\\y2s2\\edp\\threads\\as-assignment\\webapplication1\\model\\authdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A62342C-4840-4111-909C-F8936F31C702}|WebApplication1.csproj|solutionrelative:model\\authdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A62342C-4840-4111-909C-F8936F31C702}|WebApplication1.csproj|c:\\nyp\\y2s2\\edp\\threads\\as-assignment\\webapplication1\\model\\passwordhistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A62342C-4840-4111-909C-F8936F31C702}|WebApplication1.csproj|solutionrelative:model\\passwordhistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A62342C-4840-4111-909C-F8936F31C702}|WebApplication1.csproj|c:\\nyp\\y2s2\\edp\\threads\\as-assignment\\webapplication1\\pages\\component.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1A62342C-4840-4111-909C-F8936F31C702}|WebApplication1.csproj|solutionrelative:pages\\component.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A62342C-4840-4111-909C-F8936F31C702}|WebApplication1.csproj|c:\\nyp\\y2s2\\edp\\threads\\as-assignment\\webapplication1\\services\\googlecaptchaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A62342C-4840-4111-909C-F8936F31C702}|WebApplication1.csproj|solutionrelative:services\\googlecaptchaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A62342C-4840-4111-909C-F8936F31C702}|WebApplication1.csproj|c:\\nyp\\y2s2\\edp\\threads\\as-assignment\\webapplication1\\extensions\\lockoutextentions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A62342C-4840-4111-909C-F8936F31C702}|WebApplication1.csproj|solutionrelative:extensions\\lockoutextentions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A62342C-4840-4111-909C-F8936F31C702}|WebApplication1.csproj|c:\\nyp\\y2s2\\edp\\threads\\as-assignment\\webapplication1\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1A62342C-4840-4111-909C-F8936F31C702}|WebApplication1.csproj|solutionrelative:appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A62342C-4840-4111-909C-F8936F31C702}|WebApplication1.csproj|c:\\nyp\\y2s2\\edp\\threads\\as-assignment\\webapplication1\\pages\\landingpage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1A62342C-4840-4111-909C-F8936F31C702}|WebApplication1.csproj|solutionrelative:pages\\landingpage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A62342C-4840-4111-909C-F8936F31C702}|WebApplication1.csproj|c:\\nyp\\y2s2\\edp\\threads\\as-assignment\\webapplication1\\pages\\landingpage.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A62342C-4840-4111-909C-F8936F31C702}|WebApplication1.csproj|solutionrelative:pages\\landingpage.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A62342C-4840-4111-909C-F8936F31C702}|WebApplication1.csproj|c:\\nyp\\y2s2\\edp\\threads\\as-assignment\\webapplication1\\pages\\humanresource.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A62342C-4840-4111-909C-F8936F31C702}|WebApplication1.csproj|solutionrelative:pages\\humanresource.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A62342C-4840-4111-909C-F8936F31C702}|WebApplication1.csproj|c:\\nyp\\y2s2\\edp\\threads\\as-assignment\\webapplication1\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1A62342C-4840-4111-909C-F8936F31C702}|WebApplication1.csproj|solutionrelative:pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A62342C-4840-4111-909C-F8936F31C702}|WebApplication1.csproj|c:\\nyp\\y2s2\\edp\\threads\\as-assignment\\webapplication1\\viewmodels\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A62342C-4840-4111-909C-F8936F31C702}|WebApplication1.csproj|solutionrelative:viewmodels\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A62342C-4840-4111-909C-F8936F31C702}|WebApplication1.csproj|c:\\nyp\\y2s2\\edp\\threads\\as-assignment\\webapplication1\\pages\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1A62342C-4840-4111-909C-F8936F31C702}|WebApplication1.csproj|solutionrelative:pages\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A62342C-4840-4111-909C-F8936F31C702}|WebApplication1.csproj|c:\\nyp\\y2s2\\edp\\threads\\as-assignment\\webapplication1\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A62342C-4840-4111-909C-F8936F31C702}|WebApplication1.csproj|solutionrelative:pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A62342C-4840-4111-909C-F8936F31C702}|WebApplication1.csproj|c:\\nyp\\y2s2\\edp\\threads\\as-assignment\\webapplication1\\pages\\privacy.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A62342C-4840-4111-909C-F8936F31C702}|WebApplication1.csproj|solutionrelative:pages\\privacy.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A62342C-4840-4111-909C-F8936F31C702}|WebApplication1.csproj|c:\\nyp\\y2s2\\edp\\threads\\as-assignment\\webapplication1\\pages\\error.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A62342C-4840-4111-909C-F8936F31C702}|WebApplication1.csproj|solutionrelative:pages\\error.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A62342C-4840-4111-909C-F8936F31C702}|WebApplication1.csproj|c:\\nyp\\y2s2\\edp\\threads\\as-assignment\\webapplication1\\pages\\error\\internalservererror.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1A62342C-4840-4111-909C-F8936F31C702}|WebApplication1.csproj|solutionrelative:pages\\error\\internalservererror.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A62342C-4840-4111-909C-F8936F31C702}|WebApplication1.csproj|c:\\nyp\\y2s2\\edp\\threads\\as-assignment\\webapplication1\\viewmodels\\landingpageviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A62342C-4840-4111-909C-F8936F31C702}|WebApplication1.csproj|solutionrelative:viewmodels\\landingpageviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A62342C-4840-4111-909C-F8936F31C702}|WebApplication1.csproj|c:\\nyp\\y2s2\\edp\\threads\\as-assignment\\webapplication1\\pages\\error\\404.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1A62342C-4840-4111-909C-F8936F31C702}|WebApplication1.csproj|solutionrelative:pages\\error\\404.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A62342C-4840-4111-909C-F8936F31C702}|WebApplication1.csproj|c:\\nyp\\y2s2\\edp\\threads\\as-assignment\\webapplication1\\pages\\error\\internalservererror.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A62342C-4840-4111-909C-F8936F31C702}|WebApplication1.csproj|solutionrelative:pages\\error\\internalservererror.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A62342C-4840-4111-909C-F8936F31C702}|WebApplication1.csproj|c:\\nyp\\y2s2\\edp\\threads\\as-assignment\\webapplication1\\pages\\error\\404.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A62342C-4840-4111-909C-F8936F31C702}|WebApplication1.csproj|solutionrelative:pages\\error\\404.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A62342C-4840-4111-909C-F8936F31C702}|WebApplication1.csproj|c:\\nyp\\y2s2\\edp\\threads\\as-assignment\\webapplication1\\pages\\error\\invalidtoken.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A62342C-4840-4111-909C-F8936F31C702}|WebApplication1.csproj|solutionrelative:pages\\error\\invalidtoken.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A62342C-4840-4111-909C-F8936F31C702}|WebApplication1.csproj|c:\\nyp\\y2s2\\edp\\threads\\as-assignment\\webapplication1\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1A62342C-4840-4111-909C-F8936F31C702}|WebApplication1.csproj|solutionrelative:pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A62342C-4840-4111-909C-F8936F31C702}|WebApplication1.csproj|c:\\nyp\\y2s2\\edp\\threads\\as-assignment\\webapplication1\\pages\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{1A62342C-4840-4111-909C-F8936F31C702}|WebApplication1.csproj|solutionrelative:pages\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1A62342C-4840-4111-909C-F8936F31C702}|WebApplication1.csproj|c:\\users\\gzhe2\\downloads\\webapplication1\\as-assignment\\webapplication1\\pages\\humanresource.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{1A62342C-4840-4111-909C-F8936F31C702}|WebApplication1.csproj|c:\\nyp\\y2s2\\edp\\threads\\as-assignment\\webapplication1\\pages\\humanresource.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{1A62342C-4840-4111-909C-F8936F31C702}|WebApplication1.csproj|solutionrelative:pages\\humanresource.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1A62342C-4840-4111-909C-F8936F31C702}|WebApplication1.csproj|c:\\users\\gzhe2\\downloads\\webapplication1\\as-assignment\\webapplication1\\pages\\logout.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1A62342C-4840-4111-909C-F8936F31C702}|WebApplication1.csproj|c:\\nyp\\y2s2\\edp\\threads\\as-assignment\\webapplication1\\pages\\logout.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1A62342C-4840-4111-909C-F8936F31C702}|WebApplication1.csproj|solutionrelative:pages\\logout.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\gzhe2\\Downloads\\WebApplication1\\WebApplication1\\Migrations\\20250212214248_newencrypt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1A62342C-4840-4111-909C-F8936F31C702}|WebApplication1.csproj|c:\\users\\gzhe2\\downloads\\webapplication1\\as-assignment\\webapplication1\\webapplication1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "AbsoluteMoniker": "D:0:0:{1A62342C-4840-4111-909C-F8936F31C702}|WebApplication1.csproj|c:\\nyp\\y2s2\\edp\\threads\\as-assignment\\webapplication1\\webapplication1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{1A62342C-4840-4111-909C-F8936F31C702}|WebApplication1.csproj|solutionrelative:webapplication1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\gzhe2\\Downloads\\WebApplication1\\WebApplication1\\Migrations\\20250212200320_newconflict.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1A62342C-4840-4111-909C-F8936F31C702}|WebApplication1.csproj|c:\\users\\gzhe2\\downloads\\webapplication1\\as-assignment\\webapplication1\\pages\\shared\\_layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "AbsoluteMoniker": "D:0:0:{1A62342C-4840-4111-909C-F8936F31C702}|WebApplication1.csproj|c:\\nyp\\y2s2\\edp\\threads\\as-assignment\\webapplication1\\pages\\shared\\_layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
       "RelativeMoniker": "D:0:0:{1A62342C-4840-4111-909C-F8936F31C702}|WebApplication1.csproj|solutionrelative:pages\\shared\\_layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
@@ -185,22 +229,6 @@
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__ProjectModels/AspNetAuth/True/SqlTable/dbo.AspNetUsers.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1A62342C-4840-4111-909C-F8936F31C702}|WebApplication1.csproj|c:\\users\\gzhe2\\downloads\\webapplication1\\as-assignment\\webapplication1\\migrations\\20250213005357_newshittt2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1A62342C-4840-4111-909C-F8936F31C702}|WebApplication1.csproj|solutionrelative:migrations\\20250213005357_newshittt2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1A62342C-4840-4111-909C-F8936F31C702}|WebApplication1.csproj|c:\\users\\gzhe2\\downloads\\webapplication1\\as-assignment\\webapplication1\\migrations\\20250212234314_newpassword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1A62342C-4840-4111-909C-F8936F31C702}|WebApplication1.csproj|solutionrelative:migrations\\20250212234314_newpassword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1A62342C-4840-4111-909C-F8936F31C702}|WebApplication1.csproj|c:\\users\\gzhe2\\downloads\\webapplication1\\as-assignment\\webapplication1\\migrations\\20250212225431_neww.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1A62342C-4840-4111-909C-F8936F31C702}|WebApplication1.csproj|solutionrelative:migrations\\20250212225431_neww.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1A62342C-4840-4111-909C-F8936F31C702}|WebApplication1.csproj|c:\\users\\gzhe2\\downloads\\webapplication1\\as-assignment\\webapplication1\\migrations\\20250212225034_models.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1A62342C-4840-4111-909C-F8936F31C702}|WebApplication1.csproj|solutionrelative:migrations\\20250212225034_models.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -210,357 +238,28 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 11,
+          "SelectedChildIndex": 5,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Component.razor",
-              "DocumentMoniker": "C:\\Users\\gzhe2\\Downloads\\WebApplication1\\AS-assignment\\WebApplication1\\Pages\\Component.razor",
-              "RelativeDocumentMoniker": "Pages\\Component.razor",
-              "ToolTip": "C:\\Users\\gzhe2\\Downloads\\WebApplication1\\AS-assignment\\WebApplication1\\Pages\\Component.razor",
-              "RelativeToolTip": "Pages\\Component.razor",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-11T15:28:21.127Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "ChangePassword.cshtml",
-              "DocumentMoniker": "C:\\Users\\gzhe2\\Downloads\\WebApplication1\\AS-assignment\\WebApplication1\\Pages\\ChangePassword.cshtml",
-              "RelativeDocumentMoniker": "Pages\\ChangePassword.cshtml",
-              "ToolTip": "C:\\Users\\gzhe2\\Downloads\\WebApplication1\\AS-assignment\\WebApplication1\\Pages\\ChangePassword.cshtml",
-              "RelativeToolTip": "Pages\\ChangePassword.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-13T00:05:55.48Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "PasswordHistory.cs",
-              "DocumentMoniker": "C:\\Users\\gzhe2\\Downloads\\WebApplication1\\AS-assignment\\WebApplication1\\Model\\PasswordHistory.cs",
-              "RelativeDocumentMoniker": "Model\\PasswordHistory.cs",
-              "ToolTip": "C:\\Users\\gzhe2\\Downloads\\WebApplication1\\AS-assignment\\WebApplication1\\Model\\PasswordHistory.cs",
-              "RelativeToolTip": "Model\\PasswordHistory.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-12T23:41:58.299Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "AuthDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\gzhe2\\Downloads\\WebApplication1\\AS-assignment\\WebApplication1\\Model\\AuthDbContext.cs",
-              "RelativeDocumentMoniker": "Model\\AuthDbContext.cs",
-              "ToolTip": "C:\\Users\\gzhe2\\Downloads\\WebApplication1\\AS-assignment\\WebApplication1\\Model\\AuthDbContext.cs",
-              "RelativeToolTip": "Model\\AuthDbContext.cs",
-              "ViewState": "AgIAABEAAAAAAAAAAAAcwCIAAAAqAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-07T11:00:45.775Z",
+              "Title": "ResetPassword.cshtml",
+              "DocumentMoniker": "C:\\Nyp\\Y2S2\\EDP\\Threads\\AS-assignment\\WebApplication1\\Pages\\ResetPassword.cshtml",
+              "RelativeDocumentMoniker": "Pages\\ResetPassword.cshtml",
+              "ToolTip": "C:\\Nyp\\Y2S2\\EDP\\Threads\\AS-assignment\\WebApplication1\\Pages\\ResetPassword.cshtml",
+              "RelativeToolTip": "Pages\\ResetPassword.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-13T03:09:36.581Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "ApplicationUser.cs",
-              "DocumentMoniker": "C:\\Users\\gzhe2\\Downloads\\WebApplication1\\AS-assignment\\WebApplication1\\Model\\ApplicationUser.cs",
-              "RelativeDocumentMoniker": "Model\\ApplicationUser.cs",
-              "ToolTip": "C:\\Users\\gzhe2\\Downloads\\WebApplication1\\AS-assignment\\WebApplication1\\Model\\ApplicationUser.cs",
-              "RelativeToolTip": "Model\\ApplicationUser.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAqwBgAAAA7AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-12T18:23:16.403Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "_ViewStart.cshtml",
-              "DocumentMoniker": "C:\\Users\\gzhe2\\Downloads\\WebApplication1\\AS-assignment\\WebApplication1\\Pages\\_ViewStart.cshtml",
-              "RelativeDocumentMoniker": "Pages\\_ViewStart.cshtml",
-              "ToolTip": "C:\\Users\\gzhe2\\Downloads\\WebApplication1\\AS-assignment\\WebApplication1\\Pages\\_ViewStart.cshtml",
-              "RelativeToolTip": "Pages\\_ViewStart.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-13T00:07:48.241Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "PasswordHistoryValidator.cs",
-              "DocumentMoniker": "C:\\Users\\gzhe2\\Downloads\\WebApplication1\\AS-assignment\\WebApplication1\\Validators\\PasswordHistoryValidator.cs",
-              "RelativeDocumentMoniker": "Validators\\PasswordHistoryValidator.cs",
-              "ToolTip": "C:\\Users\\gzhe2\\Downloads\\WebApplication1\\AS-assignment\\WebApplication1\\Validators\\PasswordHistoryValidator.cs",
-              "RelativeToolTip": "Validators\\PasswordHistoryValidator.cs",
-              "ViewState": "AgIAAAEAAAAAAAAAAAAtwBIAAAAqAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-12T23:45:17.803Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\gzhe2\\Downloads\\WebApplication1\\AS-assignment\\WebApplication1\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\gzhe2\\Downloads\\WebApplication1\\AS-assignment\\WebApplication1\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAABcAAAAAAAAAAAAMwCAAAAADAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-07T11:11:18.749Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "GoogleCaptchaService.cs",
-              "DocumentMoniker": "C:\\Users\\gzhe2\\Downloads\\WebApplication1\\AS-assignment\\WebApplication1\\Services\\GoogleCaptchaService.cs",
-              "RelativeDocumentMoniker": "Services\\GoogleCaptchaService.cs",
-              "ToolTip": "C:\\Users\\gzhe2\\Downloads\\WebApplication1\\AS-assignment\\WebApplication1\\Services\\GoogleCaptchaService.cs",
-              "RelativeToolTip": "Services\\GoogleCaptchaService.cs",
-              "ViewState": "AgIAABEAAAAAAAAAAAAQwCgAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-13T01:15:48.613Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "LockoutExtentions.cs",
-              "DocumentMoniker": "C:\\Users\\gzhe2\\Downloads\\WebApplication1\\AS-assignment\\WebApplication1\\Extensions\\LockoutExtentions.cs",
-              "RelativeDocumentMoniker": "Extensions\\LockoutExtentions.cs",
-              "ToolTip": "C:\\Users\\gzhe2\\Downloads\\WebApplication1\\AS-assignment\\WebApplication1\\Extensions\\LockoutExtentions.cs",
-              "RelativeToolTip": "Extensions\\LockoutExtentions.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-13T02:02:56.77Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Login.cshtml",
-              "DocumentMoniker": "C:\\Users\\gzhe2\\Downloads\\WebApplication1\\AS-assignment\\WebApplication1\\Pages\\Login.cshtml",
-              "RelativeDocumentMoniker": "Pages\\Login.cshtml",
-              "ToolTip": "C:\\Users\\gzhe2\\Downloads\\WebApplication1\\AS-assignment\\WebApplication1\\Pages\\Login.cshtml*",
-              "RelativeToolTip": "Pages\\Login.cshtml*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABBAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-11T15:29:04.582Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Error.cshtml",
-              "DocumentMoniker": "C:\\Users\\gzhe2\\Downloads\\WebApplication1\\AS-assignment\\WebApplication1\\Pages\\Error.cshtml",
-              "RelativeDocumentMoniker": "Pages\\Error.cshtml",
-              "ToolTip": "C:\\Users\\gzhe2\\Downloads\\WebApplication1\\AS-assignment\\WebApplication1\\Pages\\Error.cshtml",
-              "RelativeToolTip": "Pages\\Error.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-12T18:36:26.818Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "Register.cshtml",
-              "DocumentMoniker": "C:\\Users\\gzhe2\\Downloads\\WebApplication1\\AS-assignment\\WebApplication1\\Pages\\Register.cshtml",
-              "RelativeDocumentMoniker": "Pages\\Register.cshtml",
-              "ToolTip": "C:\\Users\\gzhe2\\Downloads\\WebApplication1\\AS-assignment\\WebApplication1\\Pages\\Register.cshtml",
-              "RelativeToolTip": "Pages\\Register.cshtml",
-              "ViewState": "AgIAAEkAAAAAAAAAAAAswGcAAAAuAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-07T11:43:41.792Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "Register.cshtml.cs",
-              "DocumentMoniker": "C:\\Users\\gzhe2\\Downloads\\WebApplication1\\AS-assignment\\WebApplication1\\Pages\\Register.cshtml.cs",
-              "RelativeDocumentMoniker": "Pages\\Register.cshtml.cs",
-              "ToolTip": "C:\\Users\\gzhe2\\Downloads\\WebApplication1\\AS-assignment\\WebApplication1\\Pages\\Register.cshtml.cs",
-              "RelativeToolTip": "Pages\\Register.cshtml.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAowCsAAAAtAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-07T11:43:47.254Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "Register.cs",
-              "DocumentMoniker": "C:\\Users\\gzhe2\\Downloads\\WebApplication1\\AS-assignment\\WebApplication1\\ViewModels\\Register.cs",
-              "RelativeDocumentMoniker": "ViewModels\\Register.cs",
-              "ToolTip": "C:\\Users\\gzhe2\\Downloads\\WebApplication1\\AS-assignment\\WebApplication1\\ViewModels\\Register.cs",
-              "RelativeToolTip": "ViewModels\\Register.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAxwCMAAAAzAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-07T11:38:31.198Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "appsettings.Development.json",
-              "DocumentMoniker": "C:\\Users\\gzhe2\\Downloads\\WebApplication1\\AS-assignment\\WebApplication1\\appsettings.Development.json",
-              "RelativeDocumentMoniker": "appsettings.Development.json",
-              "ToolTip": "C:\\Users\\gzhe2\\Downloads\\WebApplication1\\AS-assignment\\WebApplication1\\appsettings.Development.json",
-              "RelativeToolTip": "appsettings.Development.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-02-11T16:06:56.409Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "LandingPage.cshtml.cs",
-              "DocumentMoniker": "C:\\Users\\gzhe2\\Downloads\\WebApplication1\\AS-assignment\\WebApplication1\\Pages\\LandingPage.cshtml.cs",
-              "RelativeDocumentMoniker": "Pages\\LandingPage.cshtml.cs",
-              "ToolTip": "C:\\Users\\gzhe2\\Downloads\\WebApplication1\\AS-assignment\\WebApplication1\\Pages\\LandingPage.cshtml.cs",
-              "RelativeToolTip": "Pages\\LandingPage.cshtml.cs",
-              "ViewState": "AgIAAIYAAAAAAAAAAAAAwEgAAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-12T22:15:28.244Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "LandingPage.cshtml",
-              "DocumentMoniker": "C:\\Users\\gzhe2\\Downloads\\WebApplication1\\AS-assignment\\WebApplication1\\Pages\\LandingPage.cshtml",
-              "RelativeDocumentMoniker": "Pages\\LandingPage.cshtml",
-              "ToolTip": "C:\\Users\\gzhe2\\Downloads\\WebApplication1\\AS-assignment\\WebApplication1\\Pages\\LandingPage.cshtml",
-              "RelativeToolTip": "Pages\\LandingPage.cshtml",
-              "ViewState": "AgIAADIAAAAAAAAAAAAYwEcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-12T22:15:17.379Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 47,
-              "Title": "20250213005357_newshittt2.cs",
-              "DocumentMoniker": "C:\\Users\\gzhe2\\Downloads\\WebApplication1\\AS-assignment\\WebApplication1\\Migrations\\20250213005357_newshittt2.cs",
-              "RelativeDocumentMoniker": "Migrations\\20250213005357_newshittt2.cs",
-              "ToolTip": "C:\\Users\\gzhe2\\Downloads\\WebApplication1\\AS-assignment\\WebApplication1\\Migrations\\20250213005357_newshittt2.cs",
-              "RelativeToolTip": "Migrations\\20250213005357_newshittt2.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-13T00:53:58.092Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "ChangePassword.cshtml.cs",
-              "DocumentMoniker": "C:\\Users\\gzhe2\\Downloads\\WebApplication1\\AS-assignment\\WebApplication1\\Pages\\ChangePassword.cshtml.cs",
-              "RelativeDocumentMoniker": "Pages\\ChangePassword.cshtml.cs",
-              "ToolTip": "C:\\Users\\gzhe2\\Downloads\\WebApplication1\\AS-assignment\\WebApplication1\\Pages\\ChangePassword.cshtml.cs",
-              "RelativeToolTip": "Pages\\ChangePassword.cshtml.cs",
-              "ViewState": "AgIAAE4AAAAAAAAAAAAqwGoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-13T00:06:28.223Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\gzhe2\\Downloads\\WebApplication1\\AS-assignment\\WebApplication1\\appsettings.json",
-              "RelativeDocumentMoniker": "appsettings.json",
-              "ToolTip": "C:\\Users\\gzhe2\\Downloads\\WebApplication1\\AS-assignment\\WebApplication1\\appsettings.json",
-              "RelativeToolTip": "appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAA6AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-11-07T10:54:57.073Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "HumanResource.cshtml.cs",
-              "DocumentMoniker": "C:\\Users\\gzhe2\\Downloads\\WebApplication1\\AS-assignment\\WebApplication1\\Pages\\HumanResource.cshtml.cs",
-              "RelativeDocumentMoniker": "Pages\\HumanResource.cshtml.cs",
-              "ToolTip": "C:\\Users\\gzhe2\\Downloads\\WebApplication1\\AS-assignment\\WebApplication1\\Pages\\HumanResource.cshtml.cs",
-              "RelativeToolTip": "Pages\\HumanResource.cshtml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABcAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-11T16:07:47.954Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\gzhe2\\Downloads\\WebApplication1\\AS-assignment\\WebApplication1\\Pages\\Index.cshtml",
-              "RelativeDocumentMoniker": "Pages\\Index.cshtml",
-              "ToolTip": "C:\\Users\\gzhe2\\Downloads\\WebApplication1\\AS-assignment\\WebApplication1\\Pages\\Index.cshtml",
-              "RelativeToolTip": "Pages\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-11T15:33:49.183Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "Login.cs",
-              "DocumentMoniker": "C:\\Users\\gzhe2\\Downloads\\WebApplication1\\AS-assignment\\WebApplication1\\ViewModels\\Login.cs",
-              "RelativeDocumentMoniker": "ViewModels\\Login.cs",
-              "ToolTip": "C:\\Users\\gzhe2\\Downloads\\WebApplication1\\AS-assignment\\WebApplication1\\ViewModels\\Login.cs",
-              "RelativeToolTip": "ViewModels\\Login.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAQAAAARAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-11T15:22:59.686Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "_ValidationScriptsPartial.cshtml",
-              "DocumentMoniker": "C:\\Users\\gzhe2\\Downloads\\WebApplication1\\AS-assignment\\WebApplication1\\Pages\\Shared\\_ValidationScriptsPartial.cshtml",
-              "RelativeDocumentMoniker": "Pages\\Shared\\_ValidationScriptsPartial.cshtml",
-              "ToolTip": "C:\\Users\\gzhe2\\Downloads\\WebApplication1\\AS-assignment\\WebApplication1\\Pages\\Shared\\_ValidationScriptsPartial.cshtml",
-              "RelativeToolTip": "Pages\\Shared\\_ValidationScriptsPartial.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-12T23:39:33.996Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 24,
-              "Title": "Index.cshtml.cs",
-              "DocumentMoniker": "C:\\Users\\gzhe2\\Downloads\\WebApplication1\\AS-assignment\\WebApplication1\\Pages\\Index.cshtml.cs",
-              "RelativeDocumentMoniker": "Pages\\Index.cshtml.cs",
-              "ToolTip": "C:\\Users\\gzhe2\\Downloads\\WebApplication1\\AS-assignment\\WebApplication1\\Pages\\Index.cshtml.cs",
-              "RelativeToolTip": "Pages\\Index.cshtml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-11T15:33:52.452Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 28,
               "Title": "CryptoHelper.cs",
-              "DocumentMoniker": "C:\\Users\\gzhe2\\Downloads\\WebApplication1\\AS-assignment\\WebApplication1\\Helpers\\CryptoHelper.cs",
+              "DocumentMoniker": "C:\\Nyp\\Y2S2\\EDP\\Threads\\AS-assignment\\WebApplication1\\Helpers\\CryptoHelper.cs",
               "RelativeDocumentMoniker": "Helpers\\CryptoHelper.cs",
-              "ToolTip": "C:\\Users\\gzhe2\\Downloads\\WebApplication1\\AS-assignment\\WebApplication1\\Helpers\\CryptoHelper.cs",
+              "ToolTip": "C:\\Nyp\\Y2S2\\EDP\\Threads\\AS-assignment\\WebApplication1\\Helpers\\CryptoHelper.cs",
               "RelativeToolTip": "Helpers\\CryptoHelper.cs",
               "ViewState": "AgIAAB4AAAAAAAAAAAAswDIAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -569,129 +268,51 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
-              "Title": "Privacy.cshtml.cs",
-              "DocumentMoniker": "C:\\Users\\gzhe2\\Downloads\\WebApplication1\\AS-assignment\\WebApplication1\\Pages\\Privacy.cshtml.cs",
-              "RelativeDocumentMoniker": "Pages\\Privacy.cshtml.cs",
-              "ToolTip": "C:\\Users\\gzhe2\\Downloads\\WebApplication1\\AS-assignment\\WebApplication1\\Pages\\Privacy.cshtml.cs",
-              "RelativeToolTip": "Pages\\Privacy.cshtml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAOAAAAAAAAAA==",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Nyp\\Y2S2\\EDP\\Threads\\AS-assignment\\WebApplication1\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Nyp\\Y2S2\\EDP\\Threads\\AS-assignment\\WebApplication1\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-07T10:54:57.073Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Nyp\\Y2S2\\EDP\\Threads\\AS-assignment\\WebApplication1\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Nyp\\Y2S2\\EDP\\Threads\\AS-assignment\\WebApplication1\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAB0AAABEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-11T15:34:13.295Z",
+              "WhenOpened": "2024-11-07T11:11:18.749Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
-              "Title": "Error.cshtml.cs",
-              "DocumentMoniker": "C:\\Users\\gzhe2\\Downloads\\WebApplication1\\AS-assignment\\WebApplication1\\Pages\\Error.cshtml.cs",
-              "RelativeDocumentMoniker": "Pages\\Error.cshtml.cs",
-              "ToolTip": "C:\\Users\\gzhe2\\Downloads\\WebApplication1\\AS-assignment\\WebApplication1\\Pages\\Error.cshtml.cs",
-              "RelativeToolTip": "Pages\\Error.cshtml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 7,
+              "Title": "EmailSender.cs",
+              "DocumentMoniker": "C:\\Nyp\\Y2S2\\EDP\\Threads\\AS-assignment\\WebApplication1\\Services\\EmailSender.cs",
+              "RelativeDocumentMoniker": "Services\\EmailSender.cs",
+              "ToolTip": "C:\\Nyp\\Y2S2\\EDP\\Threads\\AS-assignment\\WebApplication1\\Services\\EmailSender.cs",
+              "RelativeToolTip": "Services\\EmailSender.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-12T18:36:59.405Z",
+              "WhenOpened": "2025-02-13T03:05:36.033Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
-              "Title": "InternalServerError.cshtml",
-              "DocumentMoniker": "C:\\Users\\gzhe2\\Downloads\\WebApplication1\\AS-assignment\\WebApplication1\\Pages\\Error\\InternalServerError.cshtml",
-              "RelativeDocumentMoniker": "Pages\\Error\\InternalServerError.cshtml",
-              "ToolTip": "C:\\Users\\gzhe2\\Downloads\\WebApplication1\\AS-assignment\\WebApplication1\\Pages\\Error\\InternalServerError.cshtml",
-              "RelativeToolTip": "Pages\\Error\\InternalServerError.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-12T23:23:36.982Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 48,
-              "Title": "20250212234314_newpassword.cs",
-              "DocumentMoniker": "C:\\Users\\gzhe2\\Downloads\\WebApplication1\\AS-assignment\\WebApplication1\\Migrations\\20250212234314_newpassword.cs",
-              "RelativeDocumentMoniker": "Migrations\\20250212234314_newpassword.cs",
-              "ToolTip": "C:\\Users\\gzhe2\\Downloads\\WebApplication1\\AS-assignment\\WebApplication1\\Migrations\\20250212234314_newpassword.cs",
-              "RelativeToolTip": "Migrations\\20250212234314_newpassword.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-12T23:43:15.253Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 30,
-              "Title": "404.cshtml",
-              "DocumentMoniker": "C:\\Users\\gzhe2\\Downloads\\WebApplication1\\AS-assignment\\WebApplication1\\Pages\\Error\\404.cshtml",
-              "RelativeDocumentMoniker": "Pages\\Error\\404.cshtml",
-              "ToolTip": "C:\\Users\\gzhe2\\Downloads\\WebApplication1\\AS-assignment\\WebApplication1\\Pages\\Error\\404.cshtml",
-              "RelativeToolTip": "Pages\\Error\\404.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-12T23:23:13.594Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 32,
-              "Title": "InternalServerError.cshtml.cs",
-              "DocumentMoniker": "C:\\Users\\gzhe2\\Downloads\\WebApplication1\\AS-assignment\\WebApplication1\\Pages\\Error\\InternalServerError.cshtml.cs",
-              "RelativeDocumentMoniker": "Pages\\Error\\InternalServerError.cshtml.cs",
-              "ToolTip": "C:\\Users\\gzhe2\\Downloads\\WebApplication1\\AS-assignment\\WebApplication1\\Pages\\Error\\InternalServerError.cshtml.cs",
-              "RelativeToolTip": "Pages\\Error\\InternalServerError.cshtml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-12T23:24:20.672Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 29,
-              "Title": "LandingPageViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\gzhe2\\Downloads\\WebApplication1\\AS-assignment\\WebApplication1\\ViewModels\\LandingPageViewModel.cs",
-              "RelativeDocumentMoniker": "ViewModels\\LandingPageViewModel.cs",
-              "ToolTip": "C:\\Users\\gzhe2\\Downloads\\WebApplication1\\AS-assignment\\WebApplication1\\ViewModels\\LandingPageViewModel.cs",
-              "RelativeToolTip": "ViewModels\\LandingPageViewModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-12T23:38:54.748Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 36,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\gzhe2\\Downloads\\WebApplication1\\AS-assignment\\WebApplication1\\Pages\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "Pages\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\gzhe2\\Downloads\\WebApplication1\\AS-assignment\\WebApplication1\\Pages\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "Pages\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAmwB4AAAByAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-11T03:27:40.44Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 34,
-              "Title": "403.cshtml.cs",
-              "DocumentMoniker": "C:\\Users\\gzhe2\\Downloads\\WebApplication1\\AS-assignment\\WebApplication1\\Pages\\Error\\403.cshtml.cs",
-              "RelativeDocumentMoniker": "Pages\\Error\\403.cshtml.cs",
-              "ToolTip": "C:\\Users\\gzhe2\\Downloads\\WebApplication1\\AS-assignment\\WebApplication1\\Pages\\Error\\403.cshtml.cs",
-              "RelativeToolTip": "Pages\\Error\\403.cshtml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-12T18:37:03.73Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 31,
-              "Title": "403.cshtml",
-              "DocumentMoniker": "C:\\Users\\gzhe2\\Downloads\\WebApplication1\\AS-assignment\\WebApplication1\\Pages\\Error\\403.cshtml",
-              "RelativeDocumentMoniker": "Pages\\Error\\403.cshtml",
-              "ToolTip": "C:\\Users\\gzhe2\\Downloads\\WebApplication1\\AS-assignment\\WebApplication1\\Pages\\Error\\403.cshtml",
-              "RelativeToolTip": "Pages\\Error\\403.cshtml",
+              "DocumentIndex": 0,
+              "Title": "InvalidToken.cshtml",
+              "DocumentMoniker": "C:\\Nyp\\Y2S2\\EDP\\Threads\\AS-assignment\\WebApplication1\\Pages\\Error\\InvalidToken.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Error\\InvalidToken.cshtml",
+              "ToolTip": "C:\\Nyp\\Y2S2\\EDP\\Threads\\AS-assignment\\WebApplication1\\Pages\\Error\\InvalidToken.cshtml",
+              "RelativeToolTip": "Pages\\Error\\InvalidToken.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-02-11T16:08:19.185Z",
@@ -699,50 +320,89 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 35,
+              "DocumentIndex": 1,
+              "Title": "20250213051331_password.cs",
+              "DocumentMoniker": "C:\\Nyp\\Y2S2\\EDP\\Threads\\AS-assignment\\WebApplication1\\Migrations\\20250213051331_password.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250213051331_password.cs",
+              "ToolTip": "C:\\Nyp\\Y2S2\\EDP\\Threads\\AS-assignment\\WebApplication1\\Migrations\\20250213051331_password.cs",
+              "RelativeToolTip": "Migrations\\20250213051331_password.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T05:13:31.625Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ResetPassword.cshtml.cs",
+              "DocumentMoniker": "C:\\Nyp\\Y2S2\\EDP\\Threads\\AS-assignment\\WebApplication1\\Pages\\ResetPassword.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\ResetPassword.cshtml.cs",
+              "ToolTip": "C:\\Nyp\\Y2S2\\EDP\\Threads\\AS-assignment\\WebApplication1\\Pages\\ResetPassword.cshtml.cs",
+              "RelativeToolTip": "Pages\\ResetPassword.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T03:09:54.08Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "Login.cshtml.cs",
-              "DocumentMoniker": "C:\\Users\\gzhe2\\Downloads\\WebApplication1\\AS-assignment\\WebApplication1\\Pages\\Login.cshtml.cs",
+              "DocumentMoniker": "C:\\Nyp\\Y2S2\\EDP\\Threads\\AS-assignment\\WebApplication1\\Pages\\Login.cshtml.cs",
               "RelativeDocumentMoniker": "Pages\\Login.cshtml.cs",
-              "ToolTip": "C:\\Users\\gzhe2\\Downloads\\WebApplication1\\AS-assignment\\WebApplication1\\Pages\\Login.cshtml.cs",
+              "ToolTip": "C:\\Nyp\\Y2S2\\EDP\\Threads\\AS-assignment\\WebApplication1\\Pages\\Login.cshtml.cs",
               "RelativeToolTip": "Pages\\Login.cshtml.cs",
-              "ViewState": "AgIAABIAAAAAAAAAAAAowAYAAAAWAAAAAAAAAA==",
+              "ViewState": "AgIAADcAAAAAAAAAAAAkwEwAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-11T15:29:08.859Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 33,
-              "Title": "404.cshtml.cs",
-              "DocumentMoniker": "C:\\Users\\gzhe2\\Downloads\\WebApplication1\\AS-assignment\\WebApplication1\\Pages\\Error\\404.cshtml.cs",
-              "RelativeDocumentMoniker": "Pages\\Error\\404.cshtml.cs",
-              "ToolTip": "C:\\Users\\gzhe2\\Downloads\\WebApplication1\\AS-assignment\\WebApplication1\\Pages\\Error\\404.cshtml.cs",
-              "RelativeToolTip": "Pages\\Error\\404.cshtml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-12T23:24:49.5Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 39,
-              "Title": "HumanResource.cshtml",
-              "DocumentMoniker": "C:\\Users\\gzhe2\\Downloads\\WebApplication1\\AS-assignment\\WebApplication1\\Pages\\HumanResource.cshtml",
-              "RelativeDocumentMoniker": "Pages\\HumanResource.cshtml",
-              "ToolTip": "C:\\Users\\gzhe2\\Downloads\\WebApplication1\\AS-assignment\\WebApplication1\\Pages\\HumanResource.cshtml",
-              "RelativeToolTip": "Pages\\HumanResource.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAZAAAAAAAAAA==",
+              "DocumentIndex": 9,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Nyp\\Y2S2\\EDP\\Threads\\AS-assignment\\WebApplication1\\Pages\\Login.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Login.cshtml",
+              "ToolTip": "C:\\Nyp\\Y2S2\\EDP\\Threads\\AS-assignment\\WebApplication1\\Pages\\Login.cshtml",
+              "RelativeToolTip": "Pages\\Login.cshtml",
+              "ViewState": "AgIAAAUAAAAAAAAAAADwvyUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-11T16:06:17.318Z",
+              "WhenOpened": "2025-02-11T15:29:04.582Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 37,
+              "DocumentIndex": 10,
+              "Title": "ChangePassword.cshtml.cs",
+              "DocumentMoniker": "C:\\Nyp\\Y2S2\\EDP\\Threads\\AS-assignment\\WebApplication1\\Pages\\ChangePassword.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\ChangePassword.cshtml.cs",
+              "ToolTip": "C:\\Nyp\\Y2S2\\EDP\\Threads\\AS-assignment\\WebApplication1\\Pages\\ChangePassword.cshtml.cs",
+              "RelativeToolTip": "Pages\\ChangePassword.cshtml.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAgwH0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T00:06:28.223Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ChangePassword.cshtml",
+              "DocumentMoniker": "C:\\Nyp\\Y2S2\\EDP\\Threads\\AS-assignment\\WebApplication1\\Pages\\ChangePassword.cshtml",
+              "RelativeDocumentMoniker": "Pages\\ChangePassword.cshtml",
+              "ToolTip": "C:\\Nyp\\Y2S2\\EDP\\Threads\\AS-assignment\\WebApplication1\\Pages\\ChangePassword.cshtml",
+              "RelativeToolTip": "Pages\\ChangePassword.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAkAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-13T00:05:55.48Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
               "Title": "Logout.cshtml",
-              "DocumentMoniker": "C:\\Users\\gzhe2\\Downloads\\WebApplication1\\AS-assignment\\WebApplication1\\Pages\\Logout.cshtml",
+              "DocumentMoniker": "C:\\Nyp\\Y2S2\\EDP\\Threads\\AS-assignment\\WebApplication1\\Pages\\Logout.cshtml",
               "RelativeDocumentMoniker": "Pages\\Logout.cshtml",
-              "ToolTip": "C:\\Users\\gzhe2\\Downloads\\WebApplication1\\AS-assignment\\WebApplication1\\Pages\\Logout.cshtml",
+              "ToolTip": "C:\\Nyp\\Y2S2\\EDP\\Threads\\AS-assignment\\WebApplication1\\Pages\\Logout.cshtml",
               "RelativeToolTip": "Pages\\Logout.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -751,11 +411,492 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Register.cshtml.cs",
+              "DocumentMoniker": "C:\\Nyp\\Y2S2\\EDP\\Threads\\AS-assignment\\WebApplication1\\Pages\\Register.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Register.cshtml.cs",
+              "ToolTip": "C:\\Nyp\\Y2S2\\EDP\\Threads\\AS-assignment\\WebApplication1\\Pages\\Register.cshtml.cs",
+              "RelativeToolTip": "Pages\\Register.cshtml.cs",
+              "ViewState": "AgIAAHEAAAAAAAAAAADwv4YAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T11:43:47.254Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Nyp\\Y2S2\\EDP\\Threads\\AS-assignment\\WebApplication1\\Pages\\Register.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Register.cshtml",
+              "ToolTip": "C:\\Nyp\\Y2S2\\EDP\\Threads\\AS-assignment\\WebApplication1\\Pages\\Register.cshtml",
+              "RelativeToolTip": "Pages\\Register.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHIAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-07T11:43:41.792Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Register.cs",
+              "DocumentMoniker": "C:\\Nyp\\Y2S2\\EDP\\Threads\\AS-assignment\\WebApplication1\\ViewModels\\Register.cs",
+              "RelativeDocumentMoniker": "ViewModels\\Register.cs",
+              "ToolTip": "C:\\Nyp\\Y2S2\\EDP\\Threads\\AS-assignment\\WebApplication1\\ViewModels\\Register.cs",
+              "RelativeToolTip": "ViewModels\\Register.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAiwCcAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T11:38:31.198Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ApplicationUser.cs",
+              "DocumentMoniker": "C:\\Nyp\\Y2S2\\EDP\\Threads\\AS-assignment\\WebApplication1\\Model\\ApplicationUser.cs",
+              "RelativeDocumentMoniker": "Model\\ApplicationUser.cs",
+              "ToolTip": "C:\\Nyp\\Y2S2\\EDP\\Threads\\AS-assignment\\WebApplication1\\Model\\ApplicationUser.cs",
+              "RelativeToolTip": "Model\\ApplicationUser.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAqwCAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T18:23:16.403Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "PasswordHistoryValidator.cs",
+              "DocumentMoniker": "C:\\Nyp\\Y2S2\\EDP\\Threads\\AS-assignment\\WebApplication1\\Validators\\PasswordHistoryValidator.cs",
+              "RelativeDocumentMoniker": "Validators\\PasswordHistoryValidator.cs",
+              "ToolTip": "C:\\Nyp\\Y2S2\\EDP\\Threads\\AS-assignment\\WebApplication1\\Validators\\PasswordHistoryValidator.cs",
+              "RelativeToolTip": "Validators\\PasswordHistoryValidator.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAtwBUAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T23:45:17.803Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "20250213044408_hi.cs",
+              "DocumentMoniker": "C:\\Nyp\\Y2S2\\EDP\\Threads\\AS-assignment\\WebApplication1\\Migrations\\20250213044408_hi.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250213044408_hi.cs",
+              "ToolTip": "C:\\Nyp\\Y2S2\\EDP\\Threads\\AS-assignment\\WebApplication1\\Migrations\\20250213044408_hi.cs",
+              "RelativeToolTip": "Migrations\\20250213044408_hi.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T04:44:09.037Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "SmsSender.cs",
+              "DocumentMoniker": "C:\\Nyp\\Y2S2\\EDP\\Threads\\AS-assignment\\WebApplication1\\Services\\SmsSender.cs",
+              "RelativeDocumentMoniker": "Services\\SmsSender.cs",
+              "ToolTip": "C:\\Nyp\\Y2S2\\EDP\\Threads\\AS-assignment\\WebApplication1\\Services\\SmsSender.cs",
+              "RelativeToolTip": "Services\\SmsSender.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T03:11:33.042Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ForgotPasswordConfirmation.cshtml.cs",
+              "DocumentMoniker": "C:\\Nyp\\Y2S2\\EDP\\Threads\\AS-assignment\\WebApplication1\\Pages\\ForgotPasswordConfirmation.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\ForgotPasswordConfirmation.cshtml.cs",
+              "ToolTip": "C:\\Nyp\\Y2S2\\EDP\\Threads\\AS-assignment\\WebApplication1\\Pages\\ForgotPasswordConfirmation.cshtml.cs",
+              "RelativeToolTip": "Pages\\ForgotPasswordConfirmation.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T03:08:58.011Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ForgotPasswordConfirmation.cshtml",
+              "DocumentMoniker": "C:\\Nyp\\Y2S2\\EDP\\Threads\\AS-assignment\\WebApplication1\\Pages\\ForgotPasswordConfirmation.cshtml",
+              "RelativeDocumentMoniker": "Pages\\ForgotPasswordConfirmation.cshtml",
+              "ToolTip": "C:\\Nyp\\Y2S2\\EDP\\Threads\\AS-assignment\\WebApplication1\\Pages\\ForgotPasswordConfirmation.cshtml",
+              "RelativeToolTip": "Pages\\ForgotPasswordConfirmation.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-13T03:08:39.452Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "ForgotPassword.cshtml.cs",
+              "DocumentMoniker": "C:\\Nyp\\Y2S2\\EDP\\Threads\\AS-assignment\\WebApplication1\\Pages\\ForgotPassword.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\ForgotPassword.cshtml.cs",
+              "ToolTip": "C:\\Nyp\\Y2S2\\EDP\\Threads\\AS-assignment\\WebApplication1\\Pages\\ForgotPassword.cshtml.cs",
+              "RelativeToolTip": "Pages\\ForgotPassword.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T03:07:45.894Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ForgotPassword.cshtml",
+              "DocumentMoniker": "C:\\Nyp\\Y2S2\\EDP\\Threads\\AS-assignment\\WebApplication1\\Pages\\ForgotPassword.cshtml",
+              "RelativeDocumentMoniker": "Pages\\ForgotPassword.cshtml",
+              "ToolTip": "C:\\Nyp\\Y2S2\\EDP\\Threads\\AS-assignment\\WebApplication1\\Pages\\ForgotPassword.cshtml",
+              "RelativeToolTip": "Pages\\ForgotPassword.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-13T03:06:43.956Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Nyp\\Y2S2\\EDP\\Threads\\AS-assignment\\WebApplication1\\Pages\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Pages\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Nyp\\Y2S2\\EDP\\Threads\\AS-assignment\\WebApplication1\\Pages\\_ViewStart.cshtml",
+              "RelativeToolTip": "Pages\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-13T00:07:48.241Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "C:\\Nyp\\Y2S2\\EDP\\Threads\\AS-assignment\\WebApplication1\\Pages\\Error.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Error.cshtml",
+              "ToolTip": "C:\\Nyp\\Y2S2\\EDP\\Threads\\AS-assignment\\WebApplication1\\Pages\\Error.cshtml",
+              "RelativeToolTip": "Pages\\Error.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-12T18:36:26.818Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "ForgotPasswordViewModel.cs",
+              "DocumentMoniker": "C:\\Nyp\\Y2S2\\EDP\\Threads\\AS-assignment\\WebApplication1\\ViewModels\\ForgotPasswordViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModels\\ForgotPasswordViewModel.cs",
+              "ToolTip": "C:\\Nyp\\Y2S2\\EDP\\Threads\\AS-assignment\\WebApplication1\\ViewModels\\ForgotPasswordViewModel.cs",
+              "RelativeToolTip": "ViewModels\\ForgotPasswordViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T02:56:41.968Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "GoogleCaptchaService.cs",
+              "DocumentMoniker": "C:\\Nyp\\Y2S2\\EDP\\Threads\\AS-assignment\\WebApplication1\\Services\\GoogleCaptchaService.cs",
+              "RelativeDocumentMoniker": "Services\\GoogleCaptchaService.cs",
+              "ToolTip": "C:\\Nyp\\Y2S2\\EDP\\Threads\\AS-assignment\\WebApplication1\\Services\\GoogleCaptchaService.cs",
+              "RelativeToolTip": "Services\\GoogleCaptchaService.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAQwCgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T01:15:48.613Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "AuthDbContext.cs",
+              "DocumentMoniker": "C:\\Nyp\\Y2S2\\EDP\\Threads\\AS-assignment\\WebApplication1\\Model\\AuthDbContext.cs",
+              "RelativeDocumentMoniker": "Model\\AuthDbContext.cs",
+              "ToolTip": "C:\\Nyp\\Y2S2\\EDP\\Threads\\AS-assignment\\WebApplication1\\Model\\AuthDbContext.cs",
+              "RelativeToolTip": "Model\\AuthDbContext.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAcwCIAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T11:00:45.775Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "PasswordHistory.cs",
+              "DocumentMoniker": "C:\\Nyp\\Y2S2\\EDP\\Threads\\AS-assignment\\WebApplication1\\Model\\PasswordHistory.cs",
+              "RelativeDocumentMoniker": "Model\\PasswordHistory.cs",
+              "ToolTip": "C:\\Nyp\\Y2S2\\EDP\\Threads\\AS-assignment\\WebApplication1\\Model\\PasswordHistory.cs",
+              "RelativeToolTip": "Model\\PasswordHistory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T23:41:58.299Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Component.razor",
+              "DocumentMoniker": "C:\\Nyp\\Y2S2\\EDP\\Threads\\AS-assignment\\WebApplication1\\Pages\\Component.razor",
+              "RelativeDocumentMoniker": "Pages\\Component.razor",
+              "ToolTip": "C:\\Nyp\\Y2S2\\EDP\\Threads\\AS-assignment\\WebApplication1\\Pages\\Component.razor",
+              "RelativeToolTip": "Pages\\Component.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-11T15:28:21.127Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "LockoutExtentions.cs",
+              "DocumentMoniker": "C:\\Nyp\\Y2S2\\EDP\\Threads\\AS-assignment\\WebApplication1\\Extensions\\LockoutExtentions.cs",
+              "RelativeDocumentMoniker": "Extensions\\LockoutExtentions.cs",
+              "ToolTip": "C:\\Nyp\\Y2S2\\EDP\\Threads\\AS-assignment\\WebApplication1\\Extensions\\LockoutExtentions.cs",
+              "RelativeToolTip": "Extensions\\LockoutExtentions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T02:02:56.77Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Nyp\\Y2S2\\EDP\\Threads\\AS-assignment\\WebApplication1\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "appsettings.Development.json",
+              "ToolTip": "C:\\Nyp\\Y2S2\\EDP\\Threads\\AS-assignment\\WebApplication1\\appsettings.Development.json",
+              "RelativeToolTip": "appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-11T16:06:56.409Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "LandingPage.cshtml.cs",
+              "DocumentMoniker": "C:\\Nyp\\Y2S2\\EDP\\Threads\\AS-assignment\\WebApplication1\\Pages\\LandingPage.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\LandingPage.cshtml.cs",
+              "ToolTip": "C:\\Nyp\\Y2S2\\EDP\\Threads\\AS-assignment\\WebApplication1\\Pages\\LandingPage.cshtml.cs",
+              "RelativeToolTip": "Pages\\LandingPage.cshtml.cs",
+              "ViewState": "AgIAAIYAAAAAAAAAAAAAwEgAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T22:15:28.244Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "LandingPage.cshtml",
+              "DocumentMoniker": "C:\\Nyp\\Y2S2\\EDP\\Threads\\AS-assignment\\WebApplication1\\Pages\\LandingPage.cshtml",
+              "RelativeDocumentMoniker": "Pages\\LandingPage.cshtml",
+              "ToolTip": "C:\\Nyp\\Y2S2\\EDP\\Threads\\AS-assignment\\WebApplication1\\Pages\\LandingPage.cshtml",
+              "RelativeToolTip": "Pages\\LandingPage.cshtml",
+              "ViewState": "AgIAADIAAAAAAAAAAAAYwEcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-12T22:15:17.379Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "HumanResource.cshtml.cs",
+              "DocumentMoniker": "C:\\Nyp\\Y2S2\\EDP\\Threads\\AS-assignment\\WebApplication1\\Pages\\HumanResource.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\HumanResource.cshtml.cs",
+              "ToolTip": "C:\\Nyp\\Y2S2\\EDP\\Threads\\AS-assignment\\WebApplication1\\Pages\\HumanResource.cshtml.cs",
+              "RelativeToolTip": "Pages\\HumanResource.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T16:07:47.954Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Nyp\\Y2S2\\EDP\\Threads\\AS-assignment\\WebApplication1\\Pages\\Index.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Index.cshtml",
+              "ToolTip": "C:\\Nyp\\Y2S2\\EDP\\Threads\\AS-assignment\\WebApplication1\\Pages\\Index.cshtml",
+              "RelativeToolTip": "Pages\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-11T15:33:49.183Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "Login.cs",
+              "DocumentMoniker": "C:\\Nyp\\Y2S2\\EDP\\Threads\\AS-assignment\\WebApplication1\\ViewModels\\Login.cs",
+              "RelativeDocumentMoniker": "ViewModels\\Login.cs",
+              "ToolTip": "C:\\Nyp\\Y2S2\\EDP\\Threads\\AS-assignment\\WebApplication1\\ViewModels\\Login.cs",
+              "RelativeToolTip": "ViewModels\\Login.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAQAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T15:22:59.686Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 38,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Nyp\\Y2S2\\EDP\\Threads\\AS-assignment\\WebApplication1\\Pages\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Nyp\\Y2S2\\EDP\\Threads\\AS-assignment\\WebApplication1\\Pages\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "Pages\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-12T23:39:33.996Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "C:\\Nyp\\Y2S2\\EDP\\Threads\\AS-assignment\\WebApplication1\\Pages\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Index.cshtml.cs",
+              "ToolTip": "C:\\Nyp\\Y2S2\\EDP\\Threads\\AS-assignment\\WebApplication1\\Pages\\Index.cshtml.cs",
+              "RelativeToolTip": "Pages\\Index.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T15:33:52.452Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "Privacy.cshtml.cs",
+              "DocumentMoniker": "C:\\Nyp\\Y2S2\\EDP\\Threads\\AS-assignment\\WebApplication1\\Pages\\Privacy.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Privacy.cshtml.cs",
+              "ToolTip": "C:\\Nyp\\Y2S2\\EDP\\Threads\\AS-assignment\\WebApplication1\\Pages\\Privacy.cshtml.cs",
+              "RelativeToolTip": "Pages\\Privacy.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T15:34:13.295Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "Error.cshtml.cs",
+              "DocumentMoniker": "C:\\Nyp\\Y2S2\\EDP\\Threads\\AS-assignment\\WebApplication1\\Pages\\Error.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Error.cshtml.cs",
+              "ToolTip": "C:\\Nyp\\Y2S2\\EDP\\Threads\\AS-assignment\\WebApplication1\\Pages\\Error.cshtml.cs",
+              "RelativeToolTip": "Pages\\Error.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T18:36:59.405Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "InternalServerError.cshtml",
+              "DocumentMoniker": "C:\\Nyp\\Y2S2\\EDP\\Threads\\AS-assignment\\WebApplication1\\Pages\\Error\\InternalServerError.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Error\\InternalServerError.cshtml",
+              "ToolTip": "C:\\Nyp\\Y2S2\\EDP\\Threads\\AS-assignment\\WebApplication1\\Pages\\Error\\InternalServerError.cshtml",
+              "RelativeToolTip": "Pages\\Error\\InternalServerError.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-12T23:23:36.982Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "404.cshtml",
+              "DocumentMoniker": "C:\\Nyp\\Y2S2\\EDP\\Threads\\AS-assignment\\WebApplication1\\Pages\\Error\\404.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Error\\404.cshtml",
+              "ToolTip": "C:\\Nyp\\Y2S2\\EDP\\Threads\\AS-assignment\\WebApplication1\\Pages\\Error\\404.cshtml",
+              "RelativeToolTip": "Pages\\Error\\404.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-12T23:23:13.594Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "InternalServerError.cshtml.cs",
+              "DocumentMoniker": "C:\\Nyp\\Y2S2\\EDP\\Threads\\AS-assignment\\WebApplication1\\Pages\\Error\\InternalServerError.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Error\\InternalServerError.cshtml.cs",
+              "ToolTip": "C:\\Nyp\\Y2S2\\EDP\\Threads\\AS-assignment\\WebApplication1\\Pages\\Error\\InternalServerError.cshtml.cs",
+              "RelativeToolTip": "Pages\\Error\\InternalServerError.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T23:24:20.672Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "LandingPageViewModel.cs",
+              "DocumentMoniker": "C:\\Nyp\\Y2S2\\EDP\\Threads\\AS-assignment\\WebApplication1\\ViewModels\\LandingPageViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModels\\LandingPageViewModel.cs",
+              "ToolTip": "C:\\Nyp\\Y2S2\\EDP\\Threads\\AS-assignment\\WebApplication1\\ViewModels\\LandingPageViewModel.cs",
+              "RelativeToolTip": "ViewModels\\LandingPageViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T23:38:54.748Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Nyp\\Y2S2\\EDP\\Threads\\AS-assignment\\WebApplication1\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Nyp\\Y2S2\\EDP\\Threads\\AS-assignment\\WebApplication1\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Pages\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAmwB4AAAByAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-11T03:27:40.44Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "InvalidToken.cshtml.cs",
+              "DocumentMoniker": "C:\\Nyp\\Y2S2\\EDP\\Threads\\AS-assignment\\WebApplication1\\Pages\\Error\\InvalidToken.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Error\\InvalidToken.cshtml.cs",
+              "ToolTip": "C:\\Nyp\\Y2S2\\EDP\\Threads\\AS-assignment\\WebApplication1\\Pages\\Error\\InvalidToken.cshtml.cs",
+              "RelativeToolTip": "Pages\\Error\\InvalidToken.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T18:37:03.73Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "404.cshtml.cs",
+              "DocumentMoniker": "C:\\Nyp\\Y2S2\\EDP\\Threads\\AS-assignment\\WebApplication1\\Pages\\Error\\404.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Error\\404.cshtml.cs",
+              "ToolTip": "C:\\Nyp\\Y2S2\\EDP\\Threads\\AS-assignment\\WebApplication1\\Pages\\Error\\404.cshtml.cs",
+              "RelativeToolTip": "Pages\\Error\\404.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T23:24:49.5Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "HumanResource.cshtml",
+              "DocumentMoniker": "C:\\Nyp\\Y2S2\\EDP\\Threads\\AS-assignment\\WebApplication1\\Pages\\HumanResource.cshtml",
+              "RelativeDocumentMoniker": "Pages\\HumanResource.cshtml",
+              "ToolTip": "C:\\Nyp\\Y2S2\\EDP\\Threads\\AS-assignment\\WebApplication1\\Pages\\HumanResource.cshtml",
+              "RelativeToolTip": "Pages\\HumanResource.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-11T16:06:17.318Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
               "Title": "Privacy.cshtml",
-              "DocumentMoniker": "C:\\Users\\gzhe2\\Downloads\\WebApplication1\\AS-assignment\\WebApplication1\\Pages\\Privacy.cshtml",
+              "DocumentMoniker": "C:\\Nyp\\Y2S2\\EDP\\Threads\\AS-assignment\\WebApplication1\\Pages\\Privacy.cshtml",
               "RelativeDocumentMoniker": "Pages\\Privacy.cshtml",
-              "ToolTip": "C:\\Users\\gzhe2\\Downloads\\WebApplication1\\AS-assignment\\WebApplication1\\Pages\\Privacy.cshtml",
+              "ToolTip": "C:\\Nyp\\Y2S2\\EDP\\Threads\\AS-assignment\\WebApplication1\\Pages\\Privacy.cshtml",
               "RelativeToolTip": "Pages\\Privacy.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -764,24 +905,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 49,
-              "Title": "20250212225431_neww.cs",
-              "DocumentMoniker": "C:\\Users\\gzhe2\\Downloads\\WebApplication1\\AS-assignment\\WebApplication1\\Migrations\\20250212225431_neww.cs",
-              "RelativeDocumentMoniker": "Migrations\\20250212225431_neww.cs",
-              "ToolTip": "C:\\Users\\gzhe2\\Downloads\\WebApplication1\\AS-assignment\\WebApplication1\\Migrations\\20250212225431_neww.cs",
-              "RelativeToolTip": "Migrations\\20250212225431_neww.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-12T22:54:31.906Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 40,
+              "DocumentIndex": 51,
               "Title": "Logout.cshtml.cs",
-              "DocumentMoniker": "C:\\Users\\gzhe2\\Downloads\\WebApplication1\\AS-assignment\\WebApplication1\\Pages\\Logout.cshtml.cs",
+              "DocumentMoniker": "C:\\Nyp\\Y2S2\\EDP\\Threads\\AS-assignment\\WebApplication1\\Pages\\Logout.cshtml.cs",
               "RelativeDocumentMoniker": "Pages\\Logout.cshtml.cs",
-              "ToolTip": "C:\\Users\\gzhe2\\Downloads\\WebApplication1\\AS-assignment\\WebApplication1\\Pages\\Logout.cshtml.cs",
+              "ToolTip": "C:\\Nyp\\Y2S2\\EDP\\Threads\\AS-assignment\\WebApplication1\\Pages\\Logout.cshtml.cs",
               "RelativeToolTip": "Pages\\Logout.cshtml.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -790,46 +918,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 50,
-              "Title": "20250212225034_models.cs",
-              "DocumentMoniker": "C:\\Users\\gzhe2\\Downloads\\WebApplication1\\AS-assignment\\WebApplication1\\Migrations\\20250212225034_models.cs",
-              "RelativeDocumentMoniker": "Migrations\\20250212225034_models.cs",
-              "ToolTip": "C:\\Users\\gzhe2\\Downloads\\WebApplication1\\AS-assignment\\WebApplication1\\Migrations\\20250212225034_models.cs",
-              "RelativeToolTip": "Migrations\\20250212225034_models.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-12T22:50:34.72Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 41,
+              "DocumentIndex": 52,
               "Title": "20250212214248_newencrypt.cs",
               "DocumentMoniker": "C:\\Users\\gzhe2\\Downloads\\WebApplication1\\WebApplication1\\Migrations\\20250212214248_newencrypt.cs",
-              "RelativeDocumentMoniker": "..\\..\\WebApplication1\\Migrations\\20250212214248_newencrypt.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\Users\\gzhe2\\Downloads\\WebApplication1\\WebApplication1\\Migrations\\20250212214248_newencrypt.cs",
               "ToolTip": "C:\\Users\\gzhe2\\Downloads\\WebApplication1\\WebApplication1\\Migrations\\20250212214248_newencrypt.cs",
-              "RelativeToolTip": "..\\..\\WebApplication1\\Migrations\\20250212214248_newencrypt.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\Users\\gzhe2\\Downloads\\WebApplication1\\WebApplication1\\Migrations\\20250212214248_newencrypt.cs",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-12T21:42:48.56Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 43,
+              "DocumentIndex": 54,
               "Title": "20250212200320_newconflict.cs",
               "DocumentMoniker": "C:\\Users\\gzhe2\\Downloads\\WebApplication1\\WebApplication1\\Migrations\\20250212200320_newconflict.cs",
-              "RelativeDocumentMoniker": "..\\..\\WebApplication1\\Migrations\\20250212200320_newconflict.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\Users\\gzhe2\\Downloads\\WebApplication1\\WebApplication1\\Migrations\\20250212200320_newconflict.cs",
               "ToolTip": "C:\\Users\\gzhe2\\Downloads\\WebApplication1\\WebApplication1\\Migrations\\20250212200320_newconflict.cs",
-              "RelativeToolTip": "..\\..\\WebApplication1\\Migrations\\20250212200320_newconflict.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\Users\\gzhe2\\Downloads\\WebApplication1\\WebApplication1\\Migrations\\20250212200320_newconflict.cs",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-12T20:03:20.959Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 42,
+              "DocumentIndex": 53,
               "Title": "WebApplication1.csproj",
-              "DocumentMoniker": "C:\\Users\\gzhe2\\Downloads\\WebApplication1\\AS-assignment\\WebApplication1\\WebApplication1.csproj",
+              "DocumentMoniker": "C:\\Nyp\\Y2S2\\EDP\\Threads\\AS-assignment\\WebApplication1\\WebApplication1.csproj",
               "RelativeDocumentMoniker": "WebApplication1.csproj",
-              "ToolTip": "C:\\Users\\gzhe2\\Downloads\\WebApplication1\\AS-assignment\\WebApplication1\\WebApplication1.csproj",
+              "ToolTip": "C:\\Nyp\\Y2S2\\EDP\\Threads\\AS-assignment\\WebApplication1\\WebApplication1.csproj",
               "RelativeToolTip": "WebApplication1.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
@@ -838,34 +953,34 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 44,
+              "DocumentIndex": 55,
               "Title": "_Layout.cshtml.css",
-              "DocumentMoniker": "C:\\Users\\gzhe2\\Downloads\\WebApplication1\\AS-assignment\\WebApplication1\\Pages\\Shared\\_Layout.cshtml.css",
+              "DocumentMoniker": "C:\\Nyp\\Y2S2\\EDP\\Threads\\AS-assignment\\WebApplication1\\Pages\\Shared\\_Layout.cshtml.css",
               "RelativeDocumentMoniker": "Pages\\Shared\\_Layout.cshtml.css",
-              "ToolTip": "C:\\Users\\gzhe2\\Downloads\\WebApplication1\\AS-assignment\\WebApplication1\\Pages\\Shared\\_Layout.cshtml.css",
+              "ToolTip": "C:\\Nyp\\Y2S2\\EDP\\Threads\\AS-assignment\\WebApplication1\\Pages\\Shared\\_Layout.cshtml.css",
               "RelativeToolTip": "Pages\\Shared\\_Layout.cshtml.css",
-              "ViewState": "AgIAABsAAAAAAAAAAIBJwAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABgAAAAAAAAAAIBZwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
               "WhenOpened": "2025-02-12T19:00:04.896Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 46,
-              "Title": "dbo.AspNetUsers.sql",
+              "DocumentIndex": 57,
+              "Title": "dbo.AspNetUsers [Data]",
               "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__ProjectModels/AspNetAuth/True/SqlTable/dbo.AspNetUsers.sql",
-              "ToolTip": "ViewDataWindow_MSSQL__/_localdb__ProjectModels/AspNetAuth/True/SqlTable/dbo.AspNetUsers.sql",
+              "ToolTip": "dbo.AspNetUsers [Data]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
               "WhenOpened": "2024-11-07T11:48:49.376Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 45,
+              "DocumentIndex": 56,
               "Title": "20250212183059_newcustomfields.cs",
               "DocumentMoniker": "C:\\Users\\gzhe2\\Downloads\\WebApplication1\\WebApplication1\\Migrations\\20250212183059_newcustomfields.cs",
-              "RelativeDocumentMoniker": "..\\..\\WebApplication1\\Migrations\\20250212183059_newcustomfields.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\Users\\gzhe2\\Downloads\\WebApplication1\\WebApplication1\\Migrations\\20250212183059_newcustomfields.cs",
               "ToolTip": "C:\\Users\\gzhe2\\Downloads\\WebApplication1\\WebApplication1\\Migrations\\20250212183059_newcustomfields.cs",
-              "RelativeToolTip": "..\\..\\WebApplication1\\Migrations\\20250212183059_newcustomfields.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\Users\\gzhe2\\Downloads\\WebApplication1\\WebApplication1\\Migrations\\20250212183059_newcustomfields.cs",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-12T18:30:59.361Z"
             }

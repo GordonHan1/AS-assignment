@@ -14,11 +14,11 @@ namespace WebApplication1.Pages
     {
         private readonly UserManager<ApplicationUser> _userManager;
         private readonly SignInManager<ApplicationUser> _signInManager;
-        private readonly AuthDbContext _dbContext; // <-- Add this
+        private readonly AuthDbContext _dbContext;
 
         public ChangePasswordModel(UserManager<ApplicationUser> userManager,
-                                   SignInManager<ApplicationUser> signInManager, AuthDbContext dbContext  // <-- Add this
-)
+                                   SignInManager<ApplicationUser> signInManager,
+                                   AuthDbContext dbContext)
         {
             _userManager = userManager;
             _signInManager = signInManager;
@@ -40,7 +40,7 @@ namespace WebApplication1.Pages
             [Display(Name = "New Password")]
             [StringLength(100, MinimumLength = 12, ErrorMessage = "Password must be at least 12 characters long.")]
             [RegularExpression(@"^(?=.*[a-z])(?=.*[A-Z])(?=.*\d)(?=.*[\W_]).{12,100}$",
-        ErrorMessage = "Password must contain at least one uppercase letter, one lowercase letter, one number, and one special character.")]
+                ErrorMessage = "Password must contain at least one uppercase letter, one lowercase letter, one number, and one special character.")]
             public string NewPassword { get; set; }
 
             [Required]
@@ -60,8 +60,12 @@ namespace WebApplication1.Pages
             if (!ModelState.IsValid) return Page();
 
             var user = await _userManager.GetUserAsync(User);
-            if (user == null) return NotFound("User not found.");
+            if (user == null)
+            {
+                return NotFound("User not found.");
+            }
 
+            // Attempt to change the password
             var changeResult = await _userManager.ChangePasswordAsync(
                 user,
                 Input.CurrentPassword,
@@ -70,7 +74,20 @@ namespace WebApplication1.Pages
 
             if (!changeResult.Succeeded)
             {
-                foreach (var error in changeResult.Errors) { 
+                foreach (var error in changeResult.Errors)
+                {
+                    ModelState.AddModelError(string.Empty, error.Description);
+                }
+                return Page();
+            }
+
+            // Update the PasswordLastChanged timestamp
+            user.PasswordLastChanged = DateTime.UtcNow;
+            var updateResult = await _userManager.UpdateAsync(user);
+            if (!updateResult.Succeeded)
+            {
+                foreach (var error in updateResult.Errors)
+                {
                     ModelState.AddModelError(string.Empty, error.Description);
                 }
                 return Page();
@@ -80,17 +97,18 @@ namespace WebApplication1.Pages
             var passwordHistory = new PasswordHistory
             {
                 UserId = user.Id,
-                HashedPassword = user.PasswordHash, // user.PasswordHash is now the new one
+                HashedPassword = user.PasswordHash, // user.PasswordHash now reflects the new password
                 CreatedDate = DateTime.UtcNow
             };
             _dbContext.PasswordHistories.Add(passwordHistory);
             await _dbContext.SaveChangesAsync();
 
-            // Keep only the most recent 2
+            // Keep only the most recent 2 password history records
             var histories = await _dbContext.PasswordHistories
                 .Where(ph => ph.UserId == user.Id)
                 .OrderByDescending(ph => ph.CreatedDate)
                 .ToListAsync();
+
             if (histories.Count > 2)
             {
                 var oldEntries = histories.Skip(2).ToList();
@@ -98,13 +116,10 @@ namespace WebApplication1.Pages
                 await _dbContext.SaveChangesAsync();
             }
 
-            // Re-sign user in
+            // Re-sign the user in to update the security stamp
             await _signInManager.RefreshSignInAsync(user);
             TempData["SuccessMessage"] = "Password changed successfully!";
             return RedirectToPage("/LandingPage");
         }
-
-
-
     }
 }

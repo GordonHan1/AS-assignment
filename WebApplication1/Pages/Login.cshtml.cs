@@ -13,11 +13,18 @@ namespace WebApplication1.Pages
         [BindProperty]
         public Login LModel { get; set; }
 
-        private readonly SignInManager<ApplicationUser> signInManager;
+        private readonly SignInManager<ApplicationUser> _signInManager;
+        private readonly UserManager<ApplicationUser> _userManager;
+        private readonly IConfiguration _configuration;
 
-        public LoginModel(SignInManager<ApplicationUser> signInManager)
+        public LoginModel(
+            SignInManager<ApplicationUser> signInManager,
+            UserManager<ApplicationUser> userManager,
+            IConfiguration configuration)
         {
-            this.signInManager = signInManager;
+            _signInManager = signInManager;
+            _userManager = userManager;
+            _configuration = configuration;
         }
 
         public void OnGet()
@@ -28,20 +35,42 @@ namespace WebApplication1.Pages
         {
             if (ModelState.IsValid)
             {
-                var identityResult = await signInManager.PasswordSignInAsync(
-                    LModel.Email, LModel.Password, LModel.RememberMe, false);
+                // First, attempt to sign in using the provided credentials.
+                var signInResult = await _signInManager.PasswordSignInAsync(
+                    LModel.Email, LModel.Password, LModel.RememberMe, lockoutOnFailure: false);
 
-                if (identityResult.Succeeded)
+                if (signInResult.Succeeded)
                 {
-					var claims = new List<Claim> {
-                    new Claim(ClaimTypes.Name, "c@c.com"),
-                    new Claim(ClaimTypes.Email, "c@c.com"),
-                    new Claim("Department", "HR")
+                    // Retrieve the user object to check when they last changed their password.
+                    var user = await _userManager.FindByEmailAsync(LModel.Email);
+
+                    // Retrieve the expiration threshold (default to 90 days if not set in configuration)
+                    int expirationDays = _configuration.GetValue<int>("PasswordExpirationDays", 90);
+                    var passwordAge = DateTime.UtcNow - user.PasswordLastChanged;
+
+                    if (passwordAge.TotalDays > expirationDays)
+                    {
+                        // Optional: Sign the user out if they were partially signed in.
+                        await _signInManager.SignOutAsync();
+
+                        // Add an error message or redirect to a password reset/change page.
+                        ModelState.AddModelError("", "Your password has expired. Please reset your password.");
+                        return RedirectToPage("ResetPassword"); // Or whichever page you use for password resets.
+                    }
+
+                    // If the password is still valid, create the authentication cookie.
+                    var claims = new List<Claim>
+                    {
+                        new Claim(ClaimTypes.Name, user.UserName),
+                        new Claim(ClaimTypes.Email, user.Email),
+                        new Claim("Department", "HR")
                     };
-					var i = new ClaimsIdentity(claims, "MyCookieAuth");
-					ClaimsPrincipal claimsPrincipal = new ClaimsPrincipal(i);
-					await HttpContext.SignInAsync("MyCookieAuth", claimsPrincipal);
-					return RedirectToPage("LandingPage");
+
+                    var claimsIdentity = new ClaimsIdentity(claims, "MyCookieAuth");
+                    var claimsPrincipal = new ClaimsPrincipal(claimsIdentity);
+
+                    await HttpContext.SignInAsync("MyCookieAuth", claimsPrincipal);
+                    return RedirectToPage("ChangePassword");
                 }
                 ModelState.AddModelError("", "Username or Password incorrect");
             }
